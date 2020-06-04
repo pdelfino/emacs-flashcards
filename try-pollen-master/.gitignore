@@ -1,0 +1,13 @@
+*.html
+*.ltx
+*.pdf
+*.out
+*.aux
+*.log
+*.xml
+*.toc
+compiled/
+pollen-cache/
+drafts/
+pollen.cache
+.DS_Store
