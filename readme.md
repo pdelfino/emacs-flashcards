@@ -14,6 +14,12 @@
 
 - [x] Tirar o ":" de Ponteiros 
 
+- [ ] Descobrir problema  no celular do Victor Cançado - problema de blurry links, preto e branco, dark mode;
+
+- [ ] criar um button só para treinar HTML, depois da pessoa assinar a newsletter, eu agradeço: "Obrigado!"
+
+- [ ] criar seção de livros lidos ano a ano -> link para ganhar grana
+
 - [ ] cria seção de *Ensino*?
 
 - [ ] conteúdo: colocar texto com Azzi sobre Tecnobrega (antigão, final de 2013)
