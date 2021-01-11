@@ -14,7 +14,13 @@
 
 - [x] Tirar o ":" de Ponteiros 
 
-- [ ] Descobrir problema  no celular do Victor Cançado - problema de blurry links, preto e branco, dark mode;
+- [x] Descobrir problema  no celular do Victor Cançado - problema de blurry links, preto e branco, dark mode;
+
+- [x] conteúdo: texto sobre a resolução de ano novo;
+
+- [ ] colocar botão de assinar em todas as páginas;
+
+- [ ] colocar botão de home lá em cima pro cara conseguir voltar;
 
 - [ ] criar um button só para treinar HTML, depois da pessoa assinar a newsletter, eu agradeço: "Obrigado!"
 
