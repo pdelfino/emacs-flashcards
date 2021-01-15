@@ -51,8 +51,6 @@ footer {
     padding-bottom: 0rem;
   }
 
-
-
 body {
     width: 87.5%;
     margin-left: auto;
@@ -90,6 +88,7 @@ h3 {
     margin-bottom: 1.4rem;
     line-height: 1;
 }
+
 
 hr {
     display: block;
@@ -477,3 +476,92 @@ label.margin-toggle:not(.sidenote-number) {
         width: 100%;
     }
 }
+
+
+  .home {
+    position: absolute;
+    right: 300px;
+    top: 0px;
+    font-weight: 400;
+    margin-top: 2rem;
+    margin-bottom: 1.5rem;
+    font-size: 2rem;
+    line-height: 1;
+    z-index: 10000;
+  }
+/*
+  .btn {
+    border: 2.5px solid #111;
+    color: #111;
+    display: inline-block;
+    font-size: 1.1rem;
+    text-transform: uppercase;
+    padding: 15px 10px;
+    margin: 5px;
+    min-width: 60px;
+    text-align: center;
+    cursor: pointer;
+  }
+  .btn.large {
+    border: 3px solid #111;
+    font-size: 1.5rem;
+    font-weight: 800;
+    margin: 10px 5px;
+    padding: 15px;
+  }
+  
+  .btn.mini {
+    border: 1px solid #111;
+    color: #111;
+    min-width: 40px;
+    line-height: 40px;
+    padding: 0 10px;
+  }
+  
+  .btn.radio {
+    border-style: dashed;
+  }
+  
+  .btn.selected {
+    background: #111;
+    color: #FFFFF8;
+  }
+  
+  .btn.white {
+    background: #FFFFF8;
+    color: #111;
+  }
+  
+  .btn.flash {
+    background: #EEE!important;
+  }
+  
+  .btns {
+    margin: 3px 0;
+  }
+  
+  .btns .btn:first-child {
+    margin-left: 0;
+  }
+  
+  .btns .btn:last-child {
+    margin-right: 0;
+  }
+  
+  .btns.stack {
+    margin: 15px 0 20px 0;
+  }
+  
+  .btns.stack > .btn {
+    display: block;
+    margin: 5px 0;
+  }
+  
+  a {
+    font-size: 1.5rem;
+    color: #111;
+    text-decoration: none;
+    padding-bottom: 1px;
+    border-bottom: 2px solid #111;
+  }
+  */
