@@ -488,7 +488,8 @@ label.margin-toggle:not(.sidenote-number) {
     font-size: 2rem;
     line-height: 1;
     z-index: 10000;
-  }
+    text-decoration: none !important;
+ }
 /*
   .btn {
     border: 2.5px solid #111;
