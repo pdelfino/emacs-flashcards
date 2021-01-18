@@ -18,21 +18,27 @@
 
 - [x] conteúdo: texto sobre a resolução de ano novo;
 
-- [ ] colocar botão de assinar em todas as páginas;
+- [x] colocar botão de assinar em todas as páginas;
 
-- [ ] colocar botão de home lá em cima pro cara conseguir voltar;
+- [x] colocar botão de home lá em cima pro cara conseguir voltar;
+
+- [x] mudar o título das páginas;
+
+- [ ] material do Artur Paes sobre colocar o Hamburguer como direça da Home de forma responsiva;
 
 - [ ] criar um button só para treinar HTML, depois da pessoa assinar a newsletter, eu agradeço: "Obrigado!"
 
-- [ ] criar seção de livros lidos ano a ano -> link para ganhar grana
+  
 
-- [ ] cria seção de *Ensino*?
+  ### Conteúdo
+
+- [x] conteúdo: Texto sobre Olinda
+
+- [x] conteúdo: TCC - link para a biblioteca da FGV
 
 - [ ] conteúdo: colocar texto com Azzi sobre Tecnobrega (antigão, final de 2013)
 
 - [ ] conteúdo: texto com o Álvaro para o jornal o Globo
-
-- [x] conteúdo: TCC - link para a biblioteca da FGV
 
 - [ ] coneúdo: ATC com o Joaquim
 
@@ -47,6 +53,10 @@
 - [ ] conteúdo:  aluno da UFMG - a razão piora
 
 - [ ] conteúdo: texto - indo à farmácia em 2035
+
+- [ ] criar seção de livros lidos ano a ano -> link para ganhar grana
+
+- [ ] cria seção de *Ensino*?
 
   
 
