@@ -28,6 +28,8 @@
 
 - [ ] criar um button só para treinar HTML, depois da pessoa assinar a newsletter, eu agradeço: "Obrigado!"
 
+- [ ] colocar aquela biblioteca de dark mode no blog
+
   
 
   ### Conteúdo
