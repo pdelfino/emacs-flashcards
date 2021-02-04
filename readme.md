@@ -34,9 +34,13 @@
 
   ### Conteúdo
 
+  OBSERVAÇÃO: para o conteúdo em ingles -> Texto sobre a ideia para falar com o Cal Newport. Deep Work Companies & Deep Work MANIFESTO.
+  
 - [x] conteúdo: Texto sobre Olinda
 
 - [x] conteúdo: TCC - link para a biblioteca da FGV
+
+- [ ] conteúdo: MOOCs como o Lower Bound da educação FiGiTal
 
 - [ ] conteúdo: colocar texto com Azzi sobre Tecnobrega (antigão, final de 2013)
 
