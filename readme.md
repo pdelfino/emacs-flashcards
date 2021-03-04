@@ -24,6 +24,8 @@
 
 - [x] mudar o título das páginas;
 
+- [ ] colocar o texto de "ESTE BLOG" na seção de Projetos e fora de Ensaio.
+
 - [ ] material do Artur Paes sobre colocar o Hamburguer como direça da Home de forma responsiva;
 
 - [ ] criar um button só para treinar HTML, depois da pessoa assinar a newsletter, eu agradeço: "Obrigado!"
@@ -40,6 +42,12 @@
 
 - [x] conteúdo: TCC - link para a biblioteca da FGV
 
+- [ ] conteúdo: incluir no manifesto -> 1º jardim digital. 2º uma chance para encontrar fuçadores.
+
+- [ ] conteúdo: ser commoditye e ser único (raro e valioso). Ouro é commmodities apesar de caro.
+
+- [ ] conteúdo: member (em SML New Jersey) minha função favorita, declarativa e recursiva
+
 - [ ] conteúdo: MOOCs como o Lower Bound da educação FiGiTal
 
 - [ ] conteúdo: colocar texto com Azzi sobre Tecnobrega (antigão, final de 2013)
@@ -54,7 +62,9 @@
 
 - [ ] conteúdo: texto para a *Revista Ágora* - Direito e Código [será que é uma boa?]
 
-- [ ] conteúdo: texto por que Direito e Matemática Aplicada?
+- [x] conteúdo: texto por que Direito e Matemática Aplicada?
+
+- [ ] conteúdo: melhorar/afinar por que Direito e Matemática Aplicada?
 
 - [ ] conteúdo:  aluno da UFMG - a razão piora
 
