@@ -44,6 +44,8 @@
 
 - [ ] conteúdo: incluir no manifesto -> 1º jardim digital. 2º uma chance para encontrar fuçadores.
 
+- [ ] conteúdo: livro contato. Belos diálogos religião e ciência. Discussões e falas sobre epistemologias muito bem construídas. Approach elegante sobre extraterrestres. Uma belíssima quote de São tomás de Aquino. Hard Sci Fi. Grande cultura bíblica. Carl Sagan sinistro. Um livro que me fez melhor. A dinâmica entre a narrativa fora da personagem e dentro da personagem. Os dramas de uma personagem. Dramas de se viver em sociedade. Einstein (será mesmo?): a inteligência tem limite, a estupidez não. Em especial, uma adição minha: a difamação e capacidade de destruir reputações também é ilimitada. Conexões inesperadas. A história dela funciona como uma metonímia de questões maiores. Ler te faz uma pessoa melhor. Me sinto melhor. Ficcão científica é bom. Te ajuda a viver no futuro. PG: live in the future and then build what is missing.
+
 - [ ] conteúdo: ser commoditye e ser único (raro e valioso). Ouro é commmodities apesar de caro.
 
 - [ ] conteúdo: member (em SML New Jersey) minha função favorita, declarativa e recursiva
