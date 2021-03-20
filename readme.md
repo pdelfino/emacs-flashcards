@@ -34,8 +34,12 @@
 
   
 
-  ### Conteúdo
+  ### Projects
 
+  - [ ] Mapa com D3js mostrando todas as cidades que eu já fui pinadas. Vai ser maneiro!!
+  
+  ### Conteúdo
+  
   OBSERVAÇÃO: para o conteúdo em ingles -> Texto sobre a ideia para falar com o Cal Newport. Deep Work Companies & Deep Work MANIFESTO.
   
 - [x] conteúdo: Texto sobre Olinda
@@ -46,7 +50,7 @@
 
 - [ ] conteúdo: livro contato. Belos diálogos religião e ciência. Discussões e falas sobre epistemologias muito bem construídas. Approach elegante sobre extraterrestres. Uma belíssima quote de São tomás de Aquino. Hard Sci Fi. Grande cultura bíblica. Carl Sagan sinistro. Um livro que me fez melhor. A dinâmica entre a narrativa fora da personagem e dentro da personagem. Os dramas de uma personagem. Dramas de se viver em sociedade. Einstein (será mesmo?): a inteligência tem limite, a estupidez não. Em especial, uma adição minha: a difamação e capacidade de destruir reputações também é ilimitada. Conexões inesperadas. A história dela funciona como uma metonímia de questões maiores. Ler te faz uma pessoa melhor. Me sinto melhor. Ficcão científica é bom. Te ajuda a viver no futuro. PG: live in the future and then build what is missing.
 
-- [ ] conteúdo: países visitados (Itália, Grécia, Amsterdã, EUA, Argentina, Paraguai, Brasil)
+- [ ] PROJETO: países visitados (Itália, Grécia, Amsterdã, EUA, Argentina, Paraguai, Brasil). Chamar de POR ONDE ANDEI. Vai tocar a música por onde andei quando lugar. Usar D3 JS.
 
 - [ ] conteúdo: ser commoditye e ser único (raro e valioso). Ouro é commmodities apesar de caro.
 
