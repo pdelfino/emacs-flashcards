@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css"
+  integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
+<html lang="en">
+
+<head>
+  <meta charset="utf-8" />
+  <title>Este blog</title>
+  <link rel="stylesheet" href="../tufte.css" />
+  <link rel="stylesheet" href="latex.css" />
+  <div class="topnav">
+    <a class="home" href="http://www.pdelfino.com.br">Home</a>
+  </div>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-H65WQEW9TH"> </script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+
+    gtag('config', 'G-H65WQEW9TH');
+  </script>
+</head>
+
+<body>
+  <article>
+    <h1 id="tufte-css">Este blog</h1>
+    <p class="subtitle">28 de Dezembro de 2020</p>
+    <section>
+      <p> Este blog foi construído a partir do <i>template</i> de CSS baseado na obra de <a
+          href="https://github.com/edwardtufte/tufte-css"> Edward Tufte</a>. Há de se ressaltar que não utilizei nenhum
+        <i>framework</i> de <i>front-end</i>. Achei que seria didático usar apenas HTML, CSS e Javascript puros. Na
+        versão em inglês do blog, no www.pedrodelfino.com, pretendo usar React na construção. Essa escolha também passa
+        por fins didáticos.</p>
+      <p>Além disso, utilizo Amazon S3 como infraestrutura de armazenamento, um domínio comprado na GoDaddy e o
+        Codepipeline da Amazon para prover <i>continuous deployment</i>. A partir de <i>commits</i> que faço em um
+        repositório do Github, o site é atualizado instantaneamente. A Amazon cobra 0.50 dólares americanos ao mês pelo
+        S3 e o GoDaddy cobra 40 reais por ano pelo domínio; os demais serviços são gratuitos.</p>
+
+    </section>
+    <section>
+      <form style="border:0px solid #ccc;padding:3px;text-align:center;" action="https://tinyletter.com/pdelfino"
+        method="post" target="popupwindow"
+        onsubmit="window.open('https://tinyletter.com/pdelfino', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true">
+        <p><label for="tlemail"> <i>Newsletter </i></label></p>
+        <p><input type="text" style="width:140px" name="email" id="tlemail" /></p>
+        <input type="hidden" value="1" name="embed" />
+        <!--
+            <input type="submit" value="Assinar" /> <p><a href="https://tinyletter.com" target="_blank"></a></p>
+          -->
+        <button type="submit"> <span class="fa fa-paper-plane"> Assinar </span> </button>
+
+      </form>
+    </section>
+
+  </article>
+</body>
+
+</html>

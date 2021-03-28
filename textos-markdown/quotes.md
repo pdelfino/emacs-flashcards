@@ -16,3 +16,5 @@ Alan Kay: futuro inventado
 
 Autor de Neuromancer: futuro homogeneamente distruído
 
+
+Shakspeare “Cowards die many times before their deaths, The valiant never taste of death but once.
