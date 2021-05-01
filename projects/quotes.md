@@ -16,5 +16,19 @@ Alan Kay: futuro inventado
 
 Autor de Neuromancer: futuro homogeneamente distruído
 
+Autor desconhecido: O homem sábio uma vez não disse nada.
+
 
 Shakspeare “Cowards die many times before their deaths, The valiant never taste of death but once.
+
+
+
+"Não se pode ensinar. Só se pode aprender" Cada vez eu acredito mais.
+
+
+
+"Warren Buffett said, "It's only when the tide goes out that you learn who's been swimming naked." Warren Buffett
+
+
+
+"Impure motives are a big danger for the ambitious. If anything is going to lead you astray, it will be the desire to impress people." PG
