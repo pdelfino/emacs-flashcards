@@ -6,29 +6,29 @@
 
 ### Macaquinhos e arquivos corrompidos
 
-Ontem, eu estava assistindo o jogo do Atlético com o América de Cali. Veja só, assistindo via *facebook live events*... Tempos modernos. Por sinal, o live streaming do facebook, que não é uma empresa focada na transmissão de eventos desportivos ao vivo, é infinitamente superior premier play da Globo. Se você for acionista da Globo e ainda não tiver percebido... melhor vender já...
+Ontem, eu estava assistindo o jogo do Atlético com o América de Cali. Veja só, assistindo via *facebook live events*... Tempos modernos. Por sinal, o live streaming do facebook, que não é uma empresa focada na transmissão de eventos desportivos ao vivo, é infinitamente superior ao *Premier Play* da Globo. Se você for acionista da Globo e ainda não tiver percebido o que está rolando... melhor vender já...
 
-Assim como esse texto, existe na minha cabeça  fluxo constante de pensamentos aleatórios parcamente conectados. Pense naquela sina do Homer Simpson com vários macaquinhos dentro de sua cabeça comando o painel de controle central. Mais ou menos como na fonto abaixo:
+Assim como esse texto, existe na minha cabeça um fluxo constante de pensamentos aleatórios parcamente conectados. Pense naquela sina do Homer Simpson com vários macaquinhos dentro de sua cabeça comando o painel de controle central. Mais ou menos como na foto abaixo:
 
 
 
 Depois de assistir a clássica distopia sci-fi sobre o 12-Army Monkeys, minha mulher se refere a essa comportamento como os "12 macacaquinhos". Quando ela está falando  e eu começo a viajar, ela diz: "Os macacaquinho tão tocando o terror aí, né? Nada pro raso, Pedro".
 
+(foto/vídeo homer simpson)
 
+Bom, nadando pro raso... Em meio ao jogo do Galo, protestos na Colômbia, gás de pimenta quase inviabilizando a partida, algum dos macacaquinhos decidiu acessar o *file systems* do meu cérebro e buscar pelo diretório (pasta) de **memórias**.
 
-Bom, nadando pro raso... Em meio ao jogo do Galo, protestos na Colômbia, gás de pimenta quase inviabilizando a partida, algum dos macacaquinhos decidiu acessar o *file systems* e buscar pelo diretório (pasta) de **memórias**.
-
-Meu sistema operacional tem arquivos corrompidos e datas pouco confiáveis, mas a lembrança que irei descrever abaixo rolou *around* 2004. Naquela época, o sabádo de manhã tinha um compromisso inegociável: ir para o clube com meus pais e irmão. Como bons mineiros e tendo comportamento em relação ao clube de forma simétrica à praia, até na chuva (ou semi-chuva) a gente ia, rs. Se outro arquivo corrompido do meu cérebro não estiver falho, acho que minha mãe me ensinou ping-pong num dia assim.
+Meu sistema operacional tem arquivos corrompidos e datas pouco confiáveis, mas a lembrança que irei descrever abaixo rolou *around* 2004. Naquela época, o sabádo de manhã tinha um compromisso inegociável: ir para o clube com minha família. Como bons mineiros e tendo comportamento em relação ao clube de forma simétrica à praia, até na chuva (ou semi-chuva) a gente ia, rs. Se outro arquivo corrompido do meu cérebro não estiver falho, acho que minha mãe me ensinou ping-pong num dia chuvoso.
 
 
 
 ### Uma manhã especial no country 
 
-Normalmente, a gente treinava chutes por enquanto meu pai ia no gol. Mas, um dia o clube estava cheio, inclusive, com um direito a times inteiros reservas . Naquela época, existia uma espécie de animadores-de-crianças, funcionários do clube que entretiam as crianças que não tinham pais tão legais quanto os meus.
+Normalmente, a gente treinava chutes por enquanto meu pai ia no gol. Contudo, houve um dia diferente. O clube estava cheio, inclusive, com direito a times inteiros reservas . Naquela época, existia uma espécie de animadores-de-crianças, funcionários do clube que entretiam as crianças que não tinham pais tão legais quanto os meus.
 
-Diferentemente do *Liminha do Programa do Gugu* , esses animadores usavam um colete laranja mas a **persona** era semelhante. Um deles teve a grande ideia de organizar um campeonatinho. Ou, campeonatin' em bom mineirês. Os times se enfrentariam todos e teria um campeão. Um evento raro nos sábados no clube.
+Diferentemente do *Liminha do Programa do Gugu* , esses animadores usavam um colete laranja mas a **persona** era semelhante. Um deles teve a grande ideia de organizar um campeonatinho. Ou, campeonatin' em bom mineirês. Os times se enfrentariam como um turno único de pontos corridos e, ao final dos confrontos, teria um campeão. Esse nível de organização de competição era raro no clube.
 
-Foram definidos os capitães e meu pai foi um deles. Além dele, os animadores-organizadores-de-gincana e os garotos mais habilidosos foram capitães.
+Foram definidos os capitães e meu pai foi um deles. Além dele, os animadores-organizadores-de-gincana e os garotos mais habilidosos também foram definidos como capitães.
 
 De início, já parecia uma desvantagem ser do time do meu pai. Afinal, ele já tinha por volta 45 anos. Para você ter ideia, o segundo cara mais velho, depois do meu pai, devia ter uns 20 e poucos e a média de idade convergia para uns 13 anos. Ou seja, ele era bem mais velho que o pessoal.
 
@@ -38,7 +38,7 @@ Cada capitão escolheria um membro pro seu time. No adedanha, ficou definido que
 
 Antes do campeonatin' rolar, havia existido um "aquecimento pre-match" com chutes a gol, embaixadinhas e etc. Dava para ter uma estimativa do nível de cada um.
 
-Eu ainda sou [ingênuo](http://www.pdelfino.com.br/essays/olinda.html), mas, quando mais novo, eu era ainda mais. Inicialmente, eu me lembro de pensar: "Caramba, não é possível que meu pai vai me escolher, ele tem muitos *data points*, a gente 'treina' todo sábado e ele sabe o quão ruim eu sou, vamos levar o 'campeonatin' a sério".
+Eu ainda sou [ingênuo](http://www.pdelfino.com.br/essays/olinda.html), mas, quando mais jovem, eu era ainda mais incauto. Inicialmente, eu me lembro de pensar: "Caramba, não é possível que meu pai vai me escolher, ele tem muitos *data points*, a gente 'treina' todo sábado e ele sabe o quão ruim eu sou, vamos levar o 'campeonatin' a sério".
 
 Ao mesmo tempo, vendo o brilho no olho do caroa por poder ser o primeiro a escolher e com aquele sorrisinho típico dele de quem está prestes *a bater o jogo no buraco*, meu pensamento mudou, eu sabia quem ele ia escolher. Sim, ele me escolheu: "sabia que ele ia fazer isso, ele é f&#@!..."
 
@@ -46,7 +46,7 @@ Além de parecer uma estratégia ruim, existia o desconforto da minha parte com 
 
 A vez foi passada para os outros capitães. Claramente, eles faziam escolhas melhores que meu pai havia feito. Enquanto isso, eu pudia sentir certa ansiedade nele. Com aquela *poker face* típica dele achando que engana alguém, ele olhava pro meu irmão caçula a cada decisão com certa tensão. Tá bom, pai... Vamos fingir que os capitães não sacaram... 
 
-Eu podia sentir a próxima tacada de "gênio". Meu pai podia ter ficado mais tranquilo nessa segunda rodada, afinal, ninguém escolheria meu irmão caçula.
+Eu podia sentir a próxima tacada de "gênio". Meu pai podia ter ficado mais tranquilo nessa segunda rodada, afinal, ninguém escolheria meu irmão caçula naquele momento.
 
 Ele é 17 meses mais novo e, calibrando um modelo comparativo ajustando pela a idade, acho que nós éramos equivalentemente ruins, rs. Como ele era mais novo do que eu e essa comparação foi feita num período da vida em que 17 meses fazem muita diferença (até de altura), meu irmão era ainda mais desprovido da habilidade de coordenação motora com *la pelota*.
 
@@ -58,23 +58,25 @@ Depois dessa, o time já estava semi-formado. Ainda faltava mais um "craque" pro
 
 ### Um mundo à parte
 
-Àquela altura, eu só conseguia pensar que aquele seria mais um dia de humilhação na minha vidinha de pré-adolescente. Afinal, nessa época, eu estudava num colégio com uma dinâmica social semelhante aos High School americanos que vemos nos filmes de Hollywood.
+Àquela altura, eu só conseguia pensar que aquele seria mais um dia de humilhação na minha vidinha de pré-adolescente. Afinal, nessa época, eu estudava num colégio com uma dinâmica social semelhante aos *High School* americanos que vemos nos filmes de Hollywood.
 
-Ninguém me prendia em armário e nem roubavam meu dinheiro do lanche, mas eu era da penúltima casta na pirâmide social do colégio. Eu era parte do grupo dos *soft nerds*. Embaixo de mim só existiam o grupo dos deficientes físicos e dos *hard nerds*, aqueles caras que jogavam xadrez no recreio. Eu até tinha vontade de jogar xadrez às vezes, mas meu instinto de auto-sobrevivência me impedia. Os *hard nerds* já tinham desistido do jogo da popularidade. Eles estavam certos, por sinal... Naquela realidade artificial e vazia dos modismos e superficialidades pré-adolescentes, eles eram os mais sãos.
+Ninguém me prendia em armário e nem roubavam meu dinheiro do lanche, mas o ranqueamento por popularidade e otimizações comportamentais em torno dele existiam. Nesse contexto,  eu era da penúltima casta na pirâmide social do colégio, os *soft nerds*. 
 
-No topo da pirâmide social do Colégio Magnum estavam os caras do time de futsal e as cheerleaders. Quer dizer, não tinham cheerleaders. Mas, todo mundo sabia que elas seriam se houvesse.
+Embaixo de mim só existiam o grupo dos deficientes físicos e dos *hard nerds*, aqueles caras que jogavam xadrez no recreio. Eu até tinha vontade de jogar xadrez às vezes, mas meu instinto de auto-sobrevivência me impedia. Os *hard nerds* já tinham desistido totalmente do jogo da popularidade. Eles estavam certos, por sinal... Naquela realidade artificial e vazia dos modismos e superficialidades pré-adolescentes, eles eram os mais lúcidos.
+
+No topo da pirâmide social do Colégio Magnum estavam os caras do time de futsal e as *cheerleaders*. Quer dizer, não tinham cheerleaders. Mas, todo mundo sabia quem elas seriam se houvesse. Nem precisava ter. Quantos aos caras do futsal, talvez eles merecessem verdadeira admiração. Alguns viraram jogadores profissionais, um deles virou goleiro do AC Milan, acredite se quiser.
 
 ### Identidade tabajara
 
 De volta ao causo... Depois dessa digressão do macaquinho metido à sociólogo, meu pai escolheu mais um cara. Salvo engano, um cara um pouco mais velho que chegou atrasado e que teria sido escolhido antes caso tivesse cumprido a agenda do *draft* do campeonatin'. 
 
-Bom, se a escalação foi problemática... agora vem o nome. Os capitães definiam seus nomes. Em geral, os garotos faziam referências aos grandes times, como os *galáticos do Real Madrid*. Um outro aleatoriamente acabou formado por cr*ü*zeirenses (acordo ortográfico com trema em virtude da tremedeira). 
+Bom, se a escalação foi problemática... agora vem o nome. Os capitães definiam seus nomes. Em geral, os garotos faziam referências aos grandes times, como *os* galáticos, em referência ao Real Madrid campeão de tudo em 2003. Um outro time acabou aleatoriamente formado inteiramente por cr*ü*zeirenses (acordo ortográfico com trema em virtude da tremedeira). 
 
-Como todo bom cr*ü*zeirense, eles decidiram escolher uma sigla que tripudiava do Galo. Não me lembro ao certo. E, se lembrasse, não reproduziria para a meia dúzia de leitores deste blog.
+Como todo bom cr*ü*zeirense, eles decidiram escolher uma sigla que tripudiava do Galo cumprindo a risca a característica síndrome de definição identitária exoreferenciada. Não me lembro ao certo. E, se lembrasse, não reproduziria aqui para a meia dúzia de leitores deste blog.
 
-Aliás, entra aí outra mazela de infância. Criado como atleticano fanático, eu cresci vivendo o pior momento da história do galo e o melhor do crüzeiro. Por sinal, vou até buscar o telefone de alguns colegas dessa época e ligar para colocar o papo em dia, perguntar como está  o time deles agora, como vai a vida... rs.
+Aliás, entra aí outra mazela de infância. Criado como atleticano fanático, eu cresci vivendo o pior momento da história do galo e o melhor do crüzeiro. Por sinal, vou até buscar o telefone de alguns colegas dessa época e ligar para colocar o papo em dia, perguntar como está  o time deles agora, como vai a vida... rs. Não bebo e nem fumo, mas o galo é a minha cocaína.
 
-Nova digressão à parte, meu pai escolheu o auto-depreciativo nome de Tabajara - em referência à sátira do time formado pela esquete de humor do Casseta & Planeta. No programa, o Tabajara Futebol Clube se orgulhava de ser o *pior time do mundo*. O coroa tem personalidade e senso de humor, tem que respeitar. Aguarde que a jornada do herói está só começando.
+Nova digressão à parte, meu pai escolheu o auto-depreciativo nome de Tabajara - em referência à sátira do time formado pela esquete de humor do *Casseta & Planeta*. No programa, o Tabajara Futebol Clube se orgulhava de ser o *pior time do mundo*. O coroa tem personalidade e senso de humor, tem que respeitar. Aguarde que a jornada do herói está só começando.
 
 ### Escalação, tática e o surgimento da lenda
 
@@ -84,17 +86,39 @@ Eu achava o meu pai um bom goleiro para treinar chutes. Mas, acho que ele não f
 
 Nesse dia, ele se transformou numa espécie de *homem-aranha-barrigudo-careca-do-futsal*. É difícil descrever, mas, basicamente, ele defendia todas as bolas, sobretudo as impossíveis.
 
-Todo mundo ficava atônito. Ninguém acreditava. Por sinal, eu acho que isso ajudou muito nos primeiros jogos. Os adversários estavam subestimando a lenda. Julgaram o livro pela capa. Os adversários subestimavam e a mim ao meu irmão também. Nesse caso, eles *estimavam* corretamente a gente como ruim.
+Todo mundo ficava atônito. Ninguém acreditava. Por sinal, eu acho que isso ajudou muito nos primeiros jogos. Os adversários estavam subestimando a lenda. Julgaram o livro pela capa. Os adversários subestimavam também a mim ao meu irmão. Nesse caso, eles *estimavam* **corretamente** a gente como ruim, rs.
 
-Entretanto, a estimativa correta se voltou contra eles. Nossa estratégia (do grego strategos, do inglês *strategy*) era basicamente: (i) meu pai salvava, (ii) deixavam a gente livre, (iii) ele lançava no contra-ataque e (iv) na frente do goleiro adversário, a gente fazia o gol de tabelinha. Esse era o nosso carrosel-delfiniano. 
+Entretanto, a estimativa correta se voltou contra eles. Nossa estratégia (do grego strategos, do inglês *strategy*...) era basicamente: (i) meu pai salvava, (ii) a gente fazia a torcida e os pai nossos para ele defender, (iii) deixavam a gente livre de livre marcação, (iv) meu pai lançava no contra-ataque ao pegar a bola e (v) pegando a defesa adversária desprevinida, a gente fazia o gol de tabelinha. Esse era o nosso *carrosel-delfiniano*. 
 
-Mais pra frente, depois dos adversários acumularem gols perdidos, eu lembro de um dos Liminhas-animadores-de-criança falando... "é, esse goleiro tem que tirar dele para fazer o gol...". No fundo, foi uma forma educada de dizer para levar a sério e não subestimar o coroa. Não adiantou de nada. Ele continou mitando profundamente no campeonatin'. O *boost* de confiança ajudou. O coroa tava inspirado, ele advinhava onde os caras iam chutar, fingia que ia-e-não-ia, fazia ponte, tudo...
+(imagem do capitão nascimento - estratégia)
 
-### Muito longe de ser um Stallone de meia idade
+Mais pra frente, depois dos adversários acumularem gols perdidos, eu lembro de um dos Liminhas-animadores-de-criança falando... "é, esse goleiro tem que tirar dele para fazer o gol...". No fundo, foi uma forma educada de dizer para levar a sério e não subestimar o coroa. Não adiantou de nada. Ele continou mitando profundamente no campeonatin'. O *boost* de confiança ajudou.  A sequência de boas defesas aumentou a inspiração, ele advinhava onde os caras iam chutar, fingia que ia-e-não-ia, fazia ponte, tudo... No futebol, assim como na vida, confiança define mais de 50%.
 
-Falando assim, parece que era filho do Stallone. 
+Falando assim, parece que eu era filho do Stallone.  Existem pais de meia idade com barriga trincada, bíceps de 40 cm e que, sozinhos, destrõem exércitos vietnamitas, vide o **Rambo IV**. Esses são raros e não era o caso do meu pai, ele preenchia a definição de *daddy shape* churrasqueiro.
 
-Um desses
+
+
+### Transcendência
+
+Nessa época, eu já havia passado da infantil fase do "meu pai meu herói". Mas, esse dia foi f#$&. Na real, meu pai transcendeu a admiração minha e do meu irmão. Os *underdogs* ganharam. Ele virou **a lenda** do campeonatin'. Dava para sentir o respeito ao goleirão. 
+
+A gente, inclusive, acabou campeão e ele claramente era o *MVP (Most Valuable Player)*, haja vista a função tática de milagreiro na defesa e armador no ataque. Líder de assistências, como goleiro. O Peter Shilton do *country club*. Para quem não sabe, Peter Shilton é o lendário goleiro britânico que conseguiu a proeza de ter 30 anos de carreira como goleiro profissional entre os anos 40 e 70, jogou até quase os 50 anos de idade.
+
+
+
+Eu queria poder re-assistir aquilo tudo. Seria legal se tivessem imagens disso. Ou, talvez não. Talvez, seja melhor assim mesmo. Outro dia, reassisti *karate kid*, baita decisão ruim...  Violei a "regra dos 15 anos" (não reasssista filmes vistos antes dos 15 anos, sobretudo se você gostar deles). Na minha cabeça, as lembranças do filme  eram muito melhores do que o filme em si.
+
+As memórias desse dia são muito gostosas. Um momento da vida em que tudo era simples.  Mantê-las vivas ajuda a perceber que as partes mais importantes da nossa existência são mesmo simples.
+
+Ir para o clube, jogar futebol com seu pai e seu irmão, nadar com a sua mãe na piscina para aliviar o calor e comer um salgado com gatorade (até isso tinha um charme gastronômico)... Um dia mega feliz...
+
+Bons momentos. Instantes que não voltam na realidade objetiva do espaço-tempo. Instantes que ficam vivos na realidade subjetiva do vácuo-infinito existencial.
+
+
+
+P.S.: Meu pai é o editor deste blog, espero que esse texto o incentive a escrever as histórias que tenho o motivado a me contar. Vai ver, ele vira uma lenda como escritor! *Track-record* com a mão ele já tem...
+
+
 
 - escolheu eu, que era ruim
 - a primeira coisa que eu pensei "caramba, sabia que ele ia fazer isso, ele é foda..."
