@@ -1,0 +1,26 @@
+##  O dia que meu pai foi Neuer no minas country
+
+- escolheu eu, que era ruim
+- mico pai/filho
+- depois escolheu meu irmao, ainda pior
+- escolheu mais um cara
+- esquema tático -> 4 pai-nosso, 3 ave-maria, meu pai no gol salvando, do gol meu pai armando contra-ataque
+- tabajara (enquanto os outros nomes era galáticos, milan...)
+- dia histórico
+- queria voltar tempo e assistir tudo de novo
+- seria legal se alguém tivesse filmado
+- mas, se alguém tivesse feito, não ficaria tão legal quato o que aconteceu
+- meu pai passava longe do porte atlético
+- em algum dos intervalos, eu, inclusive, acho que ele fumou um cigarrinho, no melhor estilo (goleiro marcos tomando café e algum jogador fumando no campo)
+- nessa época, há uns 15 anos atrás, não lembro com clareza, eu já tinha passado a fase do meu-pai-meu-herói
+- eu estava mais na fase pré-adolescente do vamos-fingir-que-não-tenho-pais-afinal-tê-los-por-perto-apresenta-riscos-ao-jogo-da-popularidade-adolescente
+- mas, nesse dia, essa fase voltou
+- na verdade, meu pai transcendeu seus próprios filhos
+- ele se tornou uma lenda da quadra do country
+- Peter Shilton do minas country
+- lembra de uma época em que as coisas eram simples
+- e, talvez, me ajude a percber que as coisas mais importantes na vida são, sim, simples
+- ir para o clube numa manhã de sábado, jogar futebol com seu pai e seu irmão, comer um salgado com gatorade (eu me lembro de esperar por esse momento), nadar na piscina com
+- com a minha mae
+- bons tempos
+- momentos que não voltam no espaço-tempo da realidade objetiva mas que continuam vivos como lembranças no vácuo-infinito da realidade subjetiva
