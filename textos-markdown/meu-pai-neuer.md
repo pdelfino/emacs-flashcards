@@ -1,10 +1,25 @@
 ##  O dia que meu pai foi Neuer no minas country
 
 - escolheu eu, que era ruim
+- a primeira coisa que eu pensei "caramba, sabia que ele ia fazer isso, ele é foda..."
 - mico pai/filho
+- os outros capitães escolheram seus jogadores
+- tinha tido uma prévia antes, dava para ter uma noção do nível desportivo de cada infanto
+- enquanto os outros capitães escolhiam, eu podia ver a ansiedade no meu pai
+- eu desconfiei que ele torcia para que ninguém escolhesse meu irmão caçula
+- isso não era tão improvável, afinal, eu era provavelmente, o pior da pelada e meu irmão, 18 meses mais, ainda pior
+- quando chegou a vez do meu pai, ele sorridemente escolheu meu irmão
 - depois escolheu meu irmao, ainda pior
-- escolheu mais um cara
-- esquema tático -> 4 pai-nosso, 3 ave-maria, meu pai no gol salvando, do gol meu pai armando contra-ataque
+- se não me falha a memória, até meu irmão estava olhando pro chão do tipo.... "pai, por favor..."
+- eu só conseguia pensar... caramba, hoje vai ser mais um dia de humilhação na minha vidinha de pré-adolescente, afinal, nessa época
+- eu estudava num colégio com uma dinâmica social estilo High School americano
+- Eu era da penúltima casta, no grupo dos soft nerds and near-misfits
+- abaixo de mim, só existia a casta dos deficientes físicos e hard nerds, como os que jogavam xadrez no recreio
+- eu até tinha vontade de jogar xadrez no recreio às vezes, mas meu instinto de auto-sobrevivência me impedia
+- no top da pirâmide social, estavam os caras do time de futsal e as cheerleaders. Quer dizer, no Magnum não existiam as cheerleaders, mas todo mundo sabia quem elas seriam, caso alguém inventasse
+- de volta ao causo, meu pai ainda escolheu mais um cara, salvo engano, ele chegou atrasado
+- esquema tático -> meu pai no gol, 4 pai-nosso, 3 ave-maria e 3 na frente
+-  meu pai no gol salvando, do gol meu pai armando contra-ataque
 - tabajara (enquanto os outros nomes era galáticos, milan...)
 - dia histórico
 - queria voltar tempo e assistir tudo de novo
