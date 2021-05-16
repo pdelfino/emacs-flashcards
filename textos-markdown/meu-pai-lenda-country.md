@@ -153,7 +153,7 @@ Bons momentos. Instantes que não voltam na realidade objetiva do espaço-tempo.
 
 
 
-
+Fim
 
 P.S. 1: Meu pai é o editor deste blog, espero que este texto o incentive a escrever as histórias que tenho o motivado a me contar. Vai ver, ele vira uma lenda como escritor! *Track-record* com a mão ele já tem...
 
