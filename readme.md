@@ -82,10 +82,15 @@
 
 - [ ] conteúdo: texto - indo à farmácia em 2035
 
+- [ ] conteúdo: criar uma seção FUN FACTS e colocar lá minha função favorita
+
+- [ ] Ou talvez, colocar a minha função favorita em alguma parte da HOME mesmo...
+
+- [ ] conteúdo: fzer uma tradução do texto escrito pelo John: The Nyxt Thesis
+
 - [ ] criar seção de livros lidos ano a ano -> link para ganhar grana
 
 - [ ] cria seção de *Ensino*?
 
   
-
 
