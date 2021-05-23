@@ -21,3 +21,11 @@
 - EMAp -> força Learning how to learn em domínios do conhecimento distintos
 - Cuidado com transferibilidade , acho que eu passei tempo demais acreditando nisso
 
+
+
+Essa quote [aqui](https://en.wikipedia.org/wiki/Jurimetrics) é foda
+
+```tex
+“For the rational study of the law the blackletter man may be the man of the present, but the man of the future is the man of statistics and the master of economics.”[5]
+```
+
