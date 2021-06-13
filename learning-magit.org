@@ -1,0 +1,3 @@
+* Well
+
+let's see how this magit, org, emacs, nyxt, common lisp, slime thing go!
