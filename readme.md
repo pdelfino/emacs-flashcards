@@ -92,5 +92,5 @@
 
 - [ ] cria seção de *Ensino*?
 
-  
+- [ ] conteúdo: clássico -> nunca envelhece. Futurista dejavu? As  músicas do Sussum Yokota assim parecem.  Posso fazer ela tocar quando a pessoa abrir a crônica. Seria a primeiro audio visual do meu blog! Essa playlist é [foda](https://www.youtube.com/watch?v=BHdF4rTVLWE&t=2s). 
 

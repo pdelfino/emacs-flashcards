@@ -29,3 +29,8 @@ Essa quote [aqui](https://en.wikipedia.org/wiki/Jurimetrics) é foda
 “For the rational study of the law the blackletter man may be the man of the present, but the man of the future is the man of statistics and the master of economics.”[5]
 ```
 
+
+
+
+
+Como é muito difícil de avaliar qualidade em direito, como as coisas são muito subjetivas e mal definidas, as discussões acabam caindo em pontos que deveriam ser periféricos. Por exemplo, quem é citado acaba sendo mais importante do que deveria. Além disso, existe muita preocupação com credenciais , sobrenomes e aparências. Aliás, credenciais viram quase uma profecia auto-cumprida.
