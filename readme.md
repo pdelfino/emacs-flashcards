@@ -40,7 +40,7 @@
   
   ### Conteúdo
   
-  OBSERVAÇÃO: para o conteúdo em ingles -> Texto sobre a ideia para falar com o Cal Newport. Deep Work Companies & Deep Work MANIFESTO.
+  OBSERVAÇÃO: para o conteúdo em ingles -> Texto sobre a ideia para falar com o Cal Newport. Deep Work Companies & Deep Work MANIFESTO. 
   
 - [x] conteúdo: Texto sobre Olinda
 
@@ -94,3 +94,12 @@
 
 - [ ] conteúdo: clássico -> nunca envelhece. Futurista dejavu? As  músicas do Sussum Yokota assim parecem.  Posso fazer ela tocar quando a pessoa abrir a crônica. Seria a primeiro audio visual do meu blog! Essa playlist é [foda](https://www.youtube.com/watch?v=BHdF4rTVLWE&t=2s). 
 
+- [ ] conteúdo: texto sobre o emacs. estou lindo o livro escrito em
+  1998, apesar de ter coisas como problemas gerados por monitores em
+  preto e branco, 90% do livro continua atual. Emacs é foda. Usado
+  pelos melhores. Altamente customizável. Escrito em Lisp. O primeiro
+  grande caso de fork na engenharia de software com o GNU e
+  Xmacs. Vários motivos. Depois de 1 mês, comecei a me sentir mais
+  produtivo, tendo prazer de usar Emacs.
+
+[ ] - conteúdo: um texto sobre 1 único tributo e global. Faz sentido numa globalização cada vez mais forte. Soberania, estados nacionais, feudos... We are one species! Soon, one language...
