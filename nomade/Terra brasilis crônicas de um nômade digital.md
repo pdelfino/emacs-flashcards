@@ -22,10 +22,10 @@
 
 ### Itamaracá: raiz
 
-- seção de fun facts -> 3 instituições prisionais, 2 presídios e 1 manicômio judicial
+- seção de fun facts -> 3 instituições prisionais: 2 presídios e 1 manicômio judicial
 - seção de SINCERICÍDIO -> cidade suja e feia. Mas, o vento é top e o mar é flat. Além de ser perto do Recife.
 - número de opções de peixes > número de dentes na arcada dentária per capita
-- mobilidade urbana
+- mobilidade urbana -> combi
 - pousada dos ingles
 - foto da workspace station
 - o que vivemos agora, não parece possível de ser vivido 10 anos atrás no Brasil, faltaria internet, a não ser em capitais. Menor liquidez de pousadas e etc
@@ -36,4 +36,28 @@
 - tamanho do camarão
 - condições de higiene precárias, devo admitir. Mas, aquela comida que vc come em barraca de praia usa o mesmo fornecedor, meu amigo, rsrs.
 - Dois caras com camisas do cruzeiro. Foda. Esses caras me perseguem. Morei no RJ 6.5 anos. Durante 1 ano, em frente ao encontro da torcida no RJ. Tem base?
+- Uma placa sobre AMADO BATISTA -> "compre uma casa e ganha uma mulher feliz"
+- Vida Rural -> cavalos pastando
+- 
 
+
+
+## Recife = Day 0
+
+- Pessoas legais
+- ótimos serviços
+- prédio mais maneiro ever
+- lugares preferidos: livraria jaqueira
+- caminhadas em boa viagem, recife antigo
+- praias próximas: carneiros, maracaípe, pontal de maracaípe, porto de galinhas, ilha de itamaracá
+- Sincericídio: sujo, feio, cheiro de mangue
+- Fun fact: extreme local proud bias. Se consideram muito maior do que são. Talvez, porque já foram muito maiores do que são. E olha que eu entendo, ein!
+
+
+
+### Numeração
+
+- talvez, seja melhor chamar o período no Recife de Day 0 -> 18 meses
+- talvez, seja melhor colocar o texto de Olinda aqui como Day (raiz quadrada de -1 +i ) -> complexo
+- Day 1 -> A mudança mesmo!
+- Day 31 -> Número primo e escrever um texto sobre ITAMARACÁ
