@@ -38,7 +38,8 @@
 - Dois caras com camisas do cruzeiro. Foda. Esses caras me perseguem. Morei no RJ 6.5 anos. Durante 1 ano, em frente ao encontro da torcida no RJ. Tem base?
 - Uma placa sobre AMADO BATISTA -> "compre uma casa e ganha uma mulher feliz"
 - Vida Rural -> cavalos pastando
-- 
+- música do Dorival Caymi, sugestão do Bruno Cuconato. Voltar...
+- tem também a do reginaldo rossi, que começa com uma imprecisão, rsrs
 
 
 
@@ -52,7 +53,7 @@
 - praias próximas: carneiros, maracaípe, pontal de maracaípe, porto de galinhas, ilha de itamaracá
 - Sincericídio: sujo, feio, cheiro de mangue
 - Fun fact: extreme local proud bias. Se consideram muito maior do que são. Talvez, porque já foram muito maiores do que são. E olha que eu entendo, ein!
-
+- lindas árvores
 
 
 ### Numeração
