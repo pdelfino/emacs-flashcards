@@ -1,0 +1,43 @@
+* Emacs flashcards with org-mode and org-drill
+
+** Keybindings 
+
+*** Exercise 1  :drill:
+SCHEDULED: <2021-10-17 dom>
+:PROPERTIES:
+:ID:       74acbb92-63f6-4856-bc45-cb2a97811422
+:DRILL_LAST_INTERVAL: 4.14
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-10-13 qua 19:46]
+:END:
+
+How to open a file in Emacs?
+
+**** The Answer
+
+=C-x C-f= runs the =find-file=.
+
+*** Exercise 2 :drill:
+SCHEDULED: <2021-10-17 dom>
+:PROPERTIES:
+:ID:       26f20950-7616-47af-8475-8c4087d0cdbe
+:DRILL_LAST_INTERVAL: 4.14
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-10-13 qua 19:46]
+:END:
+
+How to close Emacs?
+
+**** The Answer
+
+=C-x C-c=
