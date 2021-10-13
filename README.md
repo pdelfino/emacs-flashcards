@@ -9,14 +9,15 @@ Org-mode files have plain text style with a **simple mark-up** which means you c
 
 Emacs is **tough** to learn. Period. However, Emacs is also **awesome** :)
 
-I have been using Emacs almost daily for the last five months and I still keep learning (loads of) new stuff every week. Moreover, I keep learning how to improve my old _habits_ and _workflow_. As you probanly know, in Emacs, there are always many ways of achieve the same end goal in Emacs, but one of them (or a few of them) tend to be the faster, more comfortable or more elegant. Especially because you change change Emacs, tinkering it to be tailor-made for yourself.
+I have been using Emacs almost daily for the last five months and I still keep learning (loads of) new stuff every week. Moreover, I keep learning how to improve my old _habits_ and _workflow_. As you probanly know, in Emacs there are always many ways to achieve the same end goal but one of the possible paths usually tend to be the faster, more comfortable or more elegant one. 
 
-Keybindings is a especial topic. There are many _combos_ to learn and get used to. Thus, I think a flashcard tool with spaced repetition approach could be a great help to improve the memory. Finally, there is nothing more organic Emacs hacking than using a spaced repetition software program inside Emacs (org-dril) to improve the learning process about Emacs!
-
+The keybindings are a especial topic since Emacs is so keyboard driven. There are many keystrokes to learn and get used to. Thus, I think a flashcard tool with spaced repetition approach could be a great help to boost the memory. Finally, there is nothing more like true _Emacs hacking_ than using a spaced repetition software program inside Emacs (`org-mode` and `org-dril`) to improve the learning process about Emacs!
 
 ## Limitations
 
-Becoming an Emacs power user is a hard challenge covering different dimensions. For instance, Elisp (Emacs lisp) would need to be mastered. This repository does not help with stuff like Elisp hacking and customization. It is especially useful for memorization of the main commands and keybindings.
+Becoming an Emacs power user is a hard challenge covering different dimensions. For instance, after Elisp (Emacs lisp) is mastered you gain super-man powers to change Emacs completely, tinkering it to be tailor-made for yourself. 
+
+This repository does not help with stuff like Elisp hacking and customization. Actually, this repo is useful for memorization of the main commands and keybindings. 
 
 ## How to use it?
 
