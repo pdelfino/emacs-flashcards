@@ -3,7 +3,7 @@
 
 This an open-source repository with flashcards about Emacs. The flashcard deck here is, basically, an [org-mode](https://en.wikipedia.org/wiki/Org-mode) file (`.org`) with special annotations. 
 
-Org-mode files have plain text style with a **simple mark-up** which means you can comfortably read the source. However, In order to have the file really behaving like a flashcard system, you need to use [org-drill](https://orgmode.org/worg/org-contrib/org-drill.html) - which is another package from Emacs.
+Org-mode files have plain text style with a **simple mark-up** which means you can comfortably read the source. However, in order to have the file really behaving like a flashcard system, you need to use [org-drill](https://orgmode.org/worg/org-contrib/org-drill.html) - which is another package from Emacs.
 
 ## Why doing this?
 
