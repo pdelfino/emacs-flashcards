@@ -72,6 +72,8 @@
 
 - [ ] conteúdo: TCC - link para a Amazon
 
+- [ ] conteúdo: texto sobre entrevistas, eu como entrevistador (não quero saber faculdade e curso). 2 perguntas: 1 livro recente e maneiro que vc leu. Conte de um projeto seu, as ideias que vc teve, como vc mobilizou pessoas, porque esse projeto é maneiro.
+
 - [ ] conteúdo: texto para a *Revista Ágora* - Direito e Código [será que é uma boa?]
 
 - [x] conteúdo: texto por que Direito e Matemática Aplicada?
@@ -102,4 +104,8 @@
   Xmacs. Vários motivos. Depois de 1 mês, comecei a me sentir mais
   produtivo, tendo prazer de usar Emacs.
 
-[ ] - conteúdo: um texto sobre 1 único tributo e global. Faz sentido numa globalização cada vez mais forte. Soberania, estados nacionais, feudos... We are one species! Soon, one language...
+[ ] - conteúdo: um texto sobre 1 único tributo e global. Faz sentido
+numa globalização cada vez mais forte. Soberania, estados nacionais,
+feudos... We are one species! Soon, one language...
+
+[ ] - quote foda: Poder decir adiós Es crecer,
