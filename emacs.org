@@ -83,6 +83,9 @@ How to close dired?
 =q=
 
 *** Exercise 5 :drill:move:
+:PROPERTIES:
+:ID:       f5690057-e0b4-4132-8936-f566cfd30c59
+:END:
 
 How to move to the next s-expression?
 
@@ -91,14 +94,20 @@ How to move to the next s-expression?
 =C-M-f=
 
 *** Exercise 6 :drill:move:
+:PROPERTIES:
+:ID:       653842f2-504b-4a6b-b2d5-c03841b41702
+:END:
 
-How to move to the last s-expression?
+How to move to the previous s-expression?
 
 **** Answer
 
 =C-M-b=
 
 *** Exercise 7 :drill:org:
+:PROPERTIES:
+:ID:       0cefa81d-728e-49f8-a209-a35bdd283608
+:END:
 
 How to move to the next org heading (not in the same level)?
 
@@ -107,6 +116,9 @@ How to move to the next org heading (not in the same level)?
 =C-c C-n=
 
 *** Exercise 8                                                    :drill:org:
+:PROPERTIES:
+:ID:       3d24c0cd-ba5d-43e6-9c71-0c02a4477610
+:END:
 
 How to move to the previous org heading (not in the same level)?
 
@@ -115,6 +127,9 @@ How to move to the previous org heading (not in the same level)?
 =C-c C-p= 
 
 *** Exercise 9                                                    :drill:org:
+:PROPERTIES:
+:ID:       4c310942-ba73-4634-ba24-99b42ab959a6
+:END:
 
 How to move to the next org heading in the same level?
 
@@ -123,6 +138,9 @@ How to move to the next org heading in the same level?
 =C-c C-f=
 
 *** Exercise 10                                                   :drill:org:
+:PROPERTIES:
+:ID:       36fd9aaf-32d1-45ef-a915-5e36f06cda43
+:END:
 
 How to move to the previous org heading in the same level?
 
