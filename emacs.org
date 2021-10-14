@@ -147,3 +147,20 @@ How to move to the previous org heading in the same level?
 **** Answer
 
 =C-c C-b= 
+
+*** Exercise 11 :drill:org:
+
+How to move to the next item of the list?
+
+**** Answer
+
+=S down=
+
+*** Exercise 12 :drill:org:
+
+How to move to the previous element of 
+the list?
+
+**** Answer
+
+=S up=
