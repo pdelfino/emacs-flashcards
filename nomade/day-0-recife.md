@@ -4,31 +4,31 @@
 
 ### Numerologia do diário 
 
-O número 0 é um [capítulo à parte](https://www.scientificamerican.com/article/history-of-zero/) na história da Matemática. Por sinal, demorou um tempo expressivo pra ele ser inventado e [aceito](https://www.bbc.com/future/article/20161206-we-couldnt-live-without-zero-but-we-once-had-to).  Em Florença, no século XXIII, o que é pertinho na linha da História, o número zero foi proibido por ser associado a fraudes! Eu achava que só veria uma dessa com portugueses, rs. 
+O número 0 é um [capítulo à parte](https://www.scientificamerican.com/article/history-of-zero/) na história da Matemática. Por sinal, demorou um tempo expressivo pra ele ser inventado e [aceito](https://www.bbc.com/future/article/20161206-we-couldnt-live-without-zero-but-we-once-had-to).  Em Florença, no século XIII, o que é pertinho na linha da História, o número zero foi proibido por ser associado a fraudes! Eu achava que só veria uma dessa com portugueses, rs. 
 
-Na real, o zero demorou para ser *descoberto*, afinal, parece ter sido Deus quem *inventou* de fato a matemática. Seja lá quem Ele(s) seja(m).
+Na real, o zero demorou para ser *descoberto*, já que parece ter sido Deus quem *inventou* de fato a matemática. Seja lá quem Ele(s) seja(m). Os humanos só descobrem os pedacinhos aos poucos. 
 
-Os humanos só descobrem os pedacinhos aos poucos. Na História, a formalização do número 0 é posterior ao seu uso instintivo. Aliás, até hoje existe uma [divergência](https://math.stackexchange.com/questions/283/is-0-a-natural-number) na convenção de contagem dos números naturais, se eles incluem o zero (números não negativos) ou se os naturais não incluem o zero (números positivos). 
+É bom que se diga que a formalização tardia historicamente não impedia o uso instintivo e informal do zero. E as controvérsias em torno do zero não são exatamente discussões do passado... Até hoje existe uma [divergência](https://math.stackexchange.com/questions/283/is-0-a-natural-number) na convenção de contagem dos números naturais, sobre se os Naturais incluem o zero (números não negativos) ou se os naturais não incluem o zero (números positivos). 
 
-Elon Lages Lima, talvez o matemático mais importante na história da educação matemática brasileira, era frequentemente perguntado sobre isso e [dizia que o 0 era, não era e talvez fosse um número natural](https://www.youtube.com/watch?v=8x3pjesliL8), rs. Imagine como as minhas notas seriam com respostas como essas, rs! 
+Elon Lages Lima, talvez o matemático mais importante na história da educação matemática brasileira, era frequentemente perguntado sobre isso e [dizia que o 0 era, não era e talvez fosse um número natural](https://www.youtube.com/watch?v=8x3pjesliL8), rs. Imagine como as minhas notas de graduação em Matemática Aplicada seriam com respostas como essas, rs! 
 
-Aliás, nesse vídeo antigo sobre o tema, que provavelmente foi gravado no IMPA há mais de dez anos, as duas pessoas ao lado do Elon foram meus professores na graduação (Paulo Cezar e [Eduardo Wagner](http://www.pdelfino.com.br/essays/wagner.html)). Fui formado por celebridades (do nicho nerd)! 
+Aliás, nesse vídeo antigo sobre o tema, que provavelmente foi gravado no IMPA há mais de dez anos, as duas pessoas ao lado do Elon foram meus professores na graduação (Paulo Cezar e [Eduardo Wagner](http://www.pdelfino.com.br/essays/wagner.html)). Fui formado por celebridades (do nicho nerd), desculpa aí! 
 
-Por esse contexto em torno do número zero, neste diário de um nômade digital, Recife é o dia 0.  O calendário gregoriano que lute com seus dias começando no 1.
+Mas, isso aqui é para ser um diário de viagem e lá se foram cinco parágrafos sobre o 0! Zero seguido de exclamação, não me refiro ao zero fatorial, que é 1 :) 
+
+Esse bla-bla-bla todo que deve ter desanimado boa parte da meia dúzia de leitores serve justificativa do motivo pelo qual Recife é o dia 0 dessa jornada de um nômade digital. 
 
 Na época em que fomos morar no Recife, nós **não** éramos nômades. Na realidade, o plano inicial era ficar entre 2 e 5 anos por lá. Talvez, até mais. Mas, *a atmosfera é dinâmica e o kite tem que ficar na janela de vento*! 
 
-Em meio ao período no Recife, houve o início de uma simpatia em relação à ideia de uma vida como nômade. E, no final do período no Recife, a jornada começou. E aí, entra ou não para o diário? 
+Em meio ao período no Recife, houve o início de uma simpatia em relação à ideia de uma vida como nômade. E, no final do período no Recife, a jornada começou. Por isso, o dilema: entra ou não para o diário? O 0 faz parte ou não dos naturais? 
 
-Nos meus axiomas, que são diferentes daqueles do [Giuseppe Peano](https://pt.wikipedia.org/wiki/Axiomas_de_Peano), digo que "sim". Afinal, como diria o Peter Thiel, **difícil** mesmo é o _[From Zero to One](https://en.wikipedia.org/wiki/Zero_to_One)_. 
-
-
+Nos meus axiomas, que são diferentes daqueles do [Giuseppe Peano](https://pt.wikipedia.org/wiki/Axiomas_de_Peano), digo que "sim". Afinal, como diria o Peter Thiel, **difícil** mesmo é o _[From Zero to One](https://en.wikipedia.org/wiki/Zero_to_One)_.  E o calendário gregoriano que lute com seus dias começando no 1...
 
 ### Um início marcante 
 
 A minha colação de grau de graduação em Matemática Aplicada na FGV do RJ foi no dia 13 de Março de 2020. Desde então, esse foi o último evento da FGV do RJ. 
 
-Uma marca expressiva, já que, em tempos normais, todo dia tinha algum evento presencial na FGV. Dá até uma saudade de penetrar nos coffe-breaks e fazer uma boca livre de canapés gourmets. Eu devia inclusive ter comprado [essa camisa](https://montink.com/memeshoppingbr/so-vim-pelo-coffee-break). Agora não dá mais. De acordo com a minha mulher, camisa estampada depois dos 25 anos é ilegal.  
+Uma marca expressiva, já que, em tempos normais, todo dia tinha algum evento presencial na FGV. Dá até uma saudade de penetrar nos coffe-breaks e fazer uma boca livre de canapés *gourmets*. Eu devia inclusive ter comprado [essa camisa](https://montink.com/memeshoppingbr/so-vim-pelo-coffee-break). Agora não dá mais. De acordo com a minha mulher, camisa estampada depois dos 25 anos é imoral.  
 
 Advinha o que aconteceu pra extinguir essa rotina de eventos e coffe breaks liberados? Sim, a pandemia. 
 
@@ -42,7 +42,7 @@ No Domingo, dia 15, fiz o voo Rio-Recife. No aeroporto, já existiam algumas rar
 
 A cada dia, informações novas surgiam e o frenesi aumentava. Em intervalos de 24 horas, era possível observar mudanças comportamentais.  Na Segunda-feira, ninguém ligava pra um espirro próximo. Na Terça, gerava um visível desconforto, aquela contraída no trapézio na sua frente. Na Quarta-feira, as pessoas se afastavam com vigor e sem pudor. 
 
-Tenho rinite alérgica crônica e, em certas épocas, espirro compulsivamente: foi um termômetro comportamental melhor que qualquer sociólogo. Afinal, meu espirro tinha tanta metodologia quanto eles, rs. Com vantagem para o espirro que tem agenda política neutra e não se preocupa com ativismo, rs.
+Tenho rinite alérgica crônica e, em certas épocas, espirro compulsivamente. Essa reação involuntária de nosso organismo à presença de partículas ou micróbios que causam irritação foi um termômetro comportamental melhor que qualquer sociólogo. Afinal, meu espirro tinha tanta metodologia quanto eles, rs. Com vantagem para o espirro que tem agenda política neutra e não se preocupa com ativismo, rs.
 
 E por que cargas d'água eu tava tanto na rua? Bom, o apartamento que nós alugamos era sem mobília. A minha missão era mobiliar um apartamento inteiro para o *survival-mode* até Sábado, dia 20 de Março de 2021. Nesse dia, o Governador de Pernambuco havia definido que quase tudo seria fechado.
 
@@ -54,13 +54,11 @@ Bom, a casa foi mobiliada. Desde que saí da casa dos meus pais (que até hoje a
 
 Piscina, academia, jardim, sala de jogos, sauna (que nunca usamos, mas deixa eu ostentar). E detalhe: o valor era 66% do que pagávamos no RJ. Muito melhor e mais barato.
 
-
-
 ### Santo Amaro: nem tão *Santo* assim
 
 O único *downside* era o bairro. A gente morava em [Santo Amaro](https://www.google.com/maps/place/Santo+Amaro,+Recife+-+State+of+Pernambuco/@-8.0477219,-34.8884674,15z/data=!3m1!4b1!4m5!3m4!1s0x7ab188df83e9483:0x2ba0094a5dce933f!8m2!3d-8.0459149!4d-34.879045). A maioria dos recifenses vai fazer uma cara de nojinho ao ouvir esse nome, rs. Até mesmo os de baixa renda, como o meu barbeiro que fazia uma tosa mensalmente por 25 pila.
 
-Historicamente, o Recife se desenvolveu em torno de um porto, como ocorre mundo afora em várias cidades- exceto em BH, rs. Por que será?
+Historicamente, o Recife se desenvolveu em torno de um porto, como ocorre mundo afora em várias cidades- exceto em BH, rs. 
 
 O marco zero do Recife fica próximo ao local do porto antigo. Ali existem prédios históricos e resíduos do passado da cidade. Com a construção do [Porto de SUAPE](https://en.wikipedia.org/wiki/Suape_Port), houve uma depreciação e esvaziamento do centro histórico. 
 
@@ -70,25 +68,41 @@ E é sempre bom visitar cemitérios. Especialmente nas fases da vida em que voc�
 
 Existem outros fatores reforçando o sub-desenvolvimento do bairro, formou-se ali uma *petit* Cracolândia. Além disso, não existe clareza documental sobre muitos terrenos abandonados da região, o que gera insegurança jurídica das propriedades e, consequentemente, compromete o desenvolvimento imobiliário. Mais Brasil do que isso impossível, rs.
 
-A boa notícia é que existe um trabalho extraordinário sendo feito de resgate do centro histórico com a criação de um polo de tecnologia chamado [Porto Digital](https://www.portodigital.org/home). Ele tem externalidades positivas de valorização da região e envolve arranjos de incentivos sofisticados. Por exemplo, empresas de tecnologia ganham isenção no ISS (Imposto Sobre Serviço) caso instalem suas sedes na região do Recife Antigo e revitalizem as fachadas dos prédios.
+A boa notícia é que existe um trabalho extraordinário sendo feito de resgate do centro histórico com a criação de um polo de tecnologia chamado [Porto Digital](https://www.portodigital.org/home). Ele tem externalidades positivas de valorização da região e envolve arranjos de incentivos sofisticados. Por exemplo, empresas de tecnologia ganham isenção no ISS (Imposto Sobre Serviço) caso instalem suas sedes na região do Recife Antigo e revitalizem as fachadas dos prédios históricos.
 
 O Porto Digital tem na dianteira empreendedores e cientistas, mas chama atenção a conexão com outros atores, inclusive políticos e servidores públicos permanentes, como promotores. Essa rede contribui para que haja um pacto na cidade, o que converge para medidas de Estado, independentemente do Governo. 
 
 Assim, obras e iniciativas são feitas de forma perene. Recentemente,  construíram, próximo da onde eu morava, uma nova e bela pista de skate na Rua Aurora. 
 
-Quando eu tomei a decisão de morar ali, só conhecia o Edifício Aurora Trend pelo [lado de fora](https://www.google.com/maps/uv?pb=!1s0x7ab1890fe440807%3A0xf2fcd6be0675e28!3m1!7e115!4s%2Fmaps%2Fplace%2Fedif%25C3%25ADcio%2Baurora%2Btrend%2F%40-8.0503948%2C-34.876311%2C3a%2C75y%2C206.91h%2C90t%2Fdata%3D*213m4*211e1*213m2*211syGWk0pGosjPRRUq66L1XUA*212e0*214m2*213m1*211s0x7ab1890fe440807%3A0xf2fcd6be0675e28%3Fsa%3DX!5sedif%C3%ADcio%20aurora%20trend%20-%20Google%20Search!15sCgIgAQ&imagekey=!1e2!2syGWk0pGosjPRRUq66L1XUA&hl=en&sa=X&ved=2ahUKEwj7zo_yjpnzAhUZpZUCHVqNCEwQpx96BAhZEAg). As informações de que a residência seria a 15 min a pé do trabalho, a 5 min de distância carro e com tamanhas instalações me convenceram. Tomei a decisão sem conhecer o bairro. Foi *quase* a decisão perfeita. Com a eclosão da pandemia, daria para ter morado mais longe, pelo mesmo preço  e numa vizinhança mais agradável. Infelizmente, *you do not know what you do not know until you know*.
+Quando eu tomei a decisão de morar ali, só conhecia o Edifício Aurora Trend pelo [lado de fora](https://www.google.com/maps/uv?pb=!1s0x7ab1890fe440807%3A0xf2fcd6be0675e28!3m1!7e115!4s%2Fmaps%2Fplace%2Fedif%25C3%25ADcio%2Baurora%2Btrend%2F%40-8.0503948%2C-34.876311%2C3a%2C75y%2C206.91h%2C90t%2Fdata%3D*213m4*211e1*213m2*211syGWk0pGosjPRRUq66L1XUA*212e0*214m2*213m1*211s0x7ab1890fe440807%3A0xf2fcd6be0675e28%3Fsa%3DX!5sedif%C3%ADcio%20aurora%20trend%20-%20Google%20Search!15sCgIgAQ&imagekey=!1e2!2syGWk0pGosjPRRUq66L1XUA&hl=en&sa=X&ved=2ahUKEwj7zo_yjpnzAhUZpZUCHVqNCEwQpx96BAhZEAg). As informações de que a residência seria a 15 min a pé do trabalho, a 5 min de distância carro e com tamanhas instalações me convenceram. Tomei a decisão sem conhecer o bairro.
 
-
+ Foi *quase* a decisão perfeita. Com a eclosão da pandemia, daria para ter morado mais longe, pelo mesmo preço e numa vizinhança mais agradável. Infelizmente, *you do not know what you do not know until you know*.
 
 ### *Money talk$, bull$hit walk$* 
 
 O custo com moradia acaba sendo o mais crítico, afinal, ele é mais rígido. Além disso, ele tende a ser correlacionado com outros valores. Dificilmente, alguém irá morar num lugar caro cercado por serviços baratinhos. Ou um lugar módico rodeado por serviços onerosos. Por isso, nessa seção financeira, o foco desse e dos próximos textos será na moradia.
 
-Nosso aluguel, condomínio e IPTU somava R$ 2.100 menais. Como não tínhamos carro, alugamos a garagem por R$ 150/mês. Portanto, o custo se resumia a R$ 1.950 por mês. Com água, luz e internet, os custos de moradiam oscilavam entre R$ 2.300 e R$ 2.500 mensais. O espaço era de 2  quartos, no 21º andar, com 50 metros quadrados e nós fomos os primeiros moradores. Eu nunca tinha estreado um imóvel na vida. Aparentemente, é melhor ser o segundo. Assim, é quase tão novo quanto e já teve alguém para resolver pequenos ajustes de acabamento, como determinada pia vazando ou janelas com fechaduras bambas.
+Nosso aluguel, condomínio e IPTU somava R$ 2.100 menais. Como não tínhamos carro, alugamos a garagem por R$ 150/mês. Portanto, o custo se resumia a R$ 1.950 por mês. Com água, luz e internet, os custos de moradiam oscilavam entre R$ 2.300 e R$ 2.500 mensais. O espaço era de 2  quartos, no 21º andar, com 50 metros quadrados e nós fomos os primeiros moradores.
 
-Um apartamento similar, novinho, numa região central do RJ seria,  provavelmente, cerca do dobro. Talvez, nem exista algo similar - são raros prédios novos na região central do RJ. Em BH, nos bairros mais valorizados, talvez fosse algo como R$ 3.500. 
+Eu nunca tinha estreado um imóvel na vida. Aparentemente, é melhor ser o segundo. Assim, é quase tão novo quanto e já teve alguém para resolver pequenos ajustes de acabamento, como determinada pia vazando ou janelas com fechaduras bambas.
+
+Um apartamento similar, novinho, numa região central do RJ seria, provavelmente, cerca do dobro. Talvez, nem exista algo similar - são raros prédios novos na região central do RJ. Em BH, nos bairros mais valorizados, talvez fosse algo como R$ 3.500. 
 
 
+
+### Um povo carinhoso *da gota*
+
+- depois de 6.5 anos no RJ, a temporada em Recife foi um rehab de serviços ruins e caros;
+
+- gentileza
+
+- porteiros, limpeza, garçom... Fenômeno inexplicável já que a galera no RJ é nordestina!
+
+- tratam bem especialmente quem veio de fora. Sim, eles vão perceber seu sotaque estrangeiro em 1 segundo de conversa.
+
+- Mesmo as pessoas que tiveram pouco acesso a educação formal tem gestos de educação, as vezes associados ao interior
+
+  
 
 ### *Bairrismo:* um viés de orgulho local
 
@@ -104,21 +118,23 @@ Difícil demostrar a sua existência. Talvez, isso seja o tipo do fenômeno adeq
 
 "I shall not today attempt further to define the kinds of material I understand to be embraced... but I know it when I see it"
 
-Dificil definir o bairrismo. Mas, eu sei quando eu o vejo. Demonstrada a existência com um migué alá *é fácil perceber que...* chegamos à pergunta:  o que explica o bairrismo pernambucano? 
+Dificil definir o bairrismo. Mas, eu sei quando eu o vejo. Demonstrada a existência com um migué na linha do clássico livro (ruim) de Matemática: *é fácil perceber que...* chegamos à pergunta: o que explica o bairrismo pernambucano? 
 
-A minha hipótese é que o Pernambucano tem muitos motivos para se achar maior do que é. Basicamente, porque ele de fato *já foi* maior do que é. Assim como ricos falidos que demoram a aceitar a falência, os pernambucanos parecem negar a visível perda de relevância econômica, política, desportiva e cultural da região ao longo dos anos. 
+Tenho duas hipóteses. A primeira é a comparação com a aldeia ao lado. Pernambuco e Recife acabam tendo um protagonismo socio-econômico na sua micro-região, sobretudo em relação à Paraíba (acima) e ao estado de Alagoas (abaixo). Alguns extendem esse protagonismo a toda a região Nordeste. No entanto, é discutível essa posição, principalmente por Salvador e Fortaleza. 
 
-Recife já foi uma das cidades mais ricas do Brasil.  Recife teve o primeiro observatório astronômico do Hemisfério Sul.  Recife já teve a segunda faculdade mais importante do Brasil. Correto. Mas, isso tem 500, 400 e 200 anos, respectivamente. Só o fim do ciclo da cana de açúcar já deu uma devastada.
+A segunda hipótese é que o Pernambucano tem muitos motivos para se achar maior do que é. Basicamente, porque ele de fato *já foi* maior do que é. Assim como ricos falidos que demoram a aceitar a falência, os pernambucanos parecem negar a visível perda de relevância econômica, política, desportiva e cultural da região ao longo dos anos. 
 
-Uma vez, ouvi de um recifense que a cidade era a terceira do Brasil: "era SP, RJ, Recife e, depois, o **resto**"... Rapaz, quando eu citei indicadores econômicos e que, por exemplo, o PIB per capita por região metropolitana do Recife, na verdade, era [inferior](https://pt.wikipedia.org/wiki/Lista_de_regi%C3%B5es_metropolitanas_do_Brasil_por_PIB) ao de Salvador, Campinas, Curitiba, entre outros dados, o camarada quase me mostrou a *peixeira*, rs.
+Recife já foi uma das cidades mais ricas do Brasil. Recife teve o primeiro observatório astronômico do Hemisfério Sul. Recife já teve a segunda ou primeira faculdade mais importante do Brasil. Correto. Mas, isso tem 500, 400 e 200 anos, respectivamente. Só o fim do ciclo da cana de açúcar já deu uma devastada.
 
-Teve uma outra vez, numa reunião séria, com pompa e tudo, que um ilustre paraíbano altamente identificado com Recife disse que a cidade seria a Paris brasileira. Rapaz... ainda bem que meu microfone tava no mudo porque eu gargalhei, rs. 
+Uma vez, ouvi de um recifense que a cidade era a terceira do Brasil: "era SP, RJ, Recife e, depois, o **resto**"... Rapaz, quando eu citei indicadores econômicos como o fato de o PIB per capita por região metropolitana do Recife ser, na verdade, [inferior](https://pt.wikipedia.org/wiki/Lista_de_regi%C3%B5es_metropolitanas_do_Brasil_por_PIB) ao de Salvador, Campinas, Curitiba, entre outros dados, o camarada quase me mostrou a *peixeira*, rs.
 
-No máximo, se fosse fazer um paralelo, o Recife seria uma *New Orleans*, que é periférica nos EUA, com carnaval famoso, na região mais pobre do país (Sul americano), com traços de colonização disintos da predominante (lá, franceses *versus* ingleses; aqui, holandeses *versus* portugueses) e outras curiosidades pitorescas.
+Teve uma outra vez, numa reunião séria, com pompa e tudo, que um ilustre paraíbano altamente identificado com Recife disse que a cidade seria a Paris brasileira... Ainda bem que meu microfone estava no mudo porque eu gargalhei, rs. Sem sacanagem.
 
-Se fizéssemos um contínuo sobre identidade regional, parece claro que o bairrismo está em um dos extremos e que, por vezes, ele pode ser nocivo. Afinal, quanto maior a sua identidade e identificações, mais [burro](http://www.paulgraham.com/identity.html) você se torna. 
+No máximo, se fosse fazer um paralelo, o Recife seria uma *New Orleans* brazuka, por ser periférica nos EUA, com carnaval famoso, na região mais pobre do país (Sul americano), com traços de colonização disintos da predominante (lá, franceses *versus* ingleses; aqui, holandeses *versus* portugueses) e outras curiosidades pitorescas.
 
-Mas, qual seria o outro extremo? Qual o oposto do bairrismo? Seria ele negativo? Será que o continuum pára no zero sem algo necessariamente negativo e só neutra? Seria a antítese do bairrismo o *foda-se* com suas origens? Seria a indiferença ou identificação nula algo negativo? Uma espécie de traidor local? Sim? Não? Por que?
+Se fizéssemos um contínuo sobre identidade regional, parece claro que o bairrismo está em um dos extremos e que, por vezes, ele pode ser um viés nocivo comprometendo a interpretação da realidade. Afinal, quanto maior a sua identidade e as suas identificações, mais [burro](http://www.paulgraham.com/identity.html) você se torna. 
+
+O.K. de acordo com o *downside* do regionalismo. Mas, qual seria o outro extremo do *continuum*? Qual o oposto do bairrismo? Seria ele negativo? Será que o *continuum* pára no zero sem algo necessariamente negativo e só neutro? Seria a antítese do bairrismo o *foda-se* em relação as suas origens? Seria a indiferença ou identificação nula algo negativo? Uma espécie de traidor local? Sim? Não? Por que?
 
 Não sei.
 
@@ -126,57 +142,55 @@ Não sei.
 
 ### Incursões exploratórias: o melhor do Recife... está próximo, mas fora dele, rs
 
-
-
 O Recife não é tão legal para turistas. Parte da costa é imprópria para banho em virtude da poluição e, em outras, existe risco real de ataques de tubarão. No entanto, próximo ao Recife, existem lugares maravilhosos. Nativos diriam que, Carneiros, por exemplo, é longe. Mas, estamos falando de duas horas e meia de viagem. Para mineiros que viajam 10 horas de carro para chegar em praias ou paulistas que perdam 3 horas por dia no trânsito, esse deslocamento é pífio.
 
-Em 18 meses, esses foram os lugares visitados. COm exceção do Cumbuco, foram todas viagens a partir de carros:
+Em 18 meses, esses foram os lugares visitados. Com exceção do Cumbuco, foram todas viagens de carro curtinhas:
 
 
 
 - Muro Alto (PE) | 1 vez
-  - Sensacional para aqueles que buscam resorts;
+  - Sensacional para aqueles que buscam *resorts*;
   - Com a maré baixa, são formadas diversas piscininhas naturais;
-  - Esse lugar tem uma peculiaridade. No Brasil, as praias são públicas. Em Muro Alto, houve a construção de vários e gigants *resorts*, um colado no outro. Isso fez com que por algumas centenas de metros não houvesse uma rua perpendicular à praia, o que restringia o acesso. Assim, só é possível acessar a praia em frente aos resorts após uma longa caminhada. Então, eles parecem ter *hackeado* uma certa seletividade -  o que é incômodo para os não endinheirados, como eu.
+  - Esse lugar tem uma peculiaridade. No Brasil, as praias são públicas. Em Muro Alto, houve a construção de vários *resorts* gigantes, um colado no outro. Isso fez com que por algumas centenas de metros não houvesse uma rua perpendicular à praia sequer, o que restringia o acesso. Assim, só é possível acessar a praia em frente aos *resorts* após uma longa caminhada. Então, eles parecem ter *hackeado* uma certa seletividade -  o que é incômodo para os não endinheirados, como eu.
 - Porto de Galinhas (PE) | 2 vezes
-  - A água de Porto de Galinhas é maravilhosa, sobretudo no verão;
-  - Algumas barracas tem ótima infra-estrutura e profissionalismo;
+  - A água de Porto de Galinhas é especial, sobretudo no verão;
+  - Algumas barracas têm ótima infra-estrutura e profissionalismo;
   - Chama atenção a quantidade de Argentinos trabalhando nas barracas. Com certeza, existem mais torcedores do Boca Juniors e do River que do Náutico em Porto de Galinhas, rs;
-  - O assédio de prestadores de serviço em Porto de Galinhas é assustador. Chegando na cidade, numa rotatória, um rapaz vestido como guia de turismo/bugreiro pilotava uma moto e gritava algo comigo, enquanto eu estava com os vidros fechados. Inicialmente, achei que ele estava a me avisar sobre algum pneu furado, porta aberta ou algo do tipo sobre o meu carro. Mas, não era o caso. O rapaz estava me oferecendo aos berros, em movimento, a 300 metros ou mais da praia algum tipo de serviço de barraca. Comportamento similar ao passar próximo a resturantes e estacionamentos. 
-- Pontal de Maracaípe (PE) 2x
-  - Esse trecho é especial
-- Pontal de Maracaípe Maracaípe (PE) 4x
-- Ilha de Itamaracá (PE) 3x
-- Ilha de Santo Aleixo (PE) 1x
-- Carneiros (PE) 2x
-- São Miguel dos Milagres (AL) 1x
-- Cumbuco (CE) 2x
-- Campina Grande 1x (PB) - compromisso profissional 
+  - O assédio de prestadores de serviço em Porto de Galinhas é assustador. Chegando na entrada da cidade, numa rotatória, um rapaz vestido como guia de turismo/bugreiro pilotava uma moto e gritava algo comigo, enquanto eu estava com os vidros fechados dirigindo. Inicialmente, achei que ele estava a me avisar sobre algum pneu furado, porta aberta ou algo do tipo sobre o meu carro. Mas, não era o caso. Quando abri o vídeo e entendi, o rapaz estava me oferecendo aos berros, em movimento, a mais de um quilômetro da praia algum tipo de serviço de barraca. Comportamentos similares a esse também ocorriam ao passar próximo de resturantes e de estacionamentos. 
+- Maracaípe (PE) | 2 vezes
+  - A praia de Maracaípe é em seguida a de Porto de Galinhas. Talvez, o banhista nem perceba que passou de uma para a outra;
+  - Diferentemente de Porto de Galinhas, Maracaípe tem ondas maiores e mar mais agistado. Existe ali, inclusive, competições de surf, especialmente próximo ao inverno.
+- Pontal de Maracaípe Maracaípe (PE) | 5 vezes
+  - Esse é um lugar especial. Existe um encontro do rio com o mar, uma vegetação única de mangue, a praia é limpíssima e bem preservada. Dá para fazer kite e surf a depender da época do ano, mais para surf do que para kite. Como o mar tem pouca declivosidade, na maré baixa, é possível caminhar muitos metros para dentro do mar sob os bancos de areia;
+  - No litoral sul pernambucano, disputa com Carneiros como o mais bonito;
+  - Saindo de Porto de Galinhas é possível caminhar atravessando Maracaípe e, na outra ponta, chegar no Pontal de Maracaípe. O percurso deve ser cerca de 5 km;
+  - O primeiro lugar em que fizemos kite surfing foi em Pontal de Maracaípe!
+- Ilha de Santo Aleixo (PE) | 1 vez
+  - D
+- Carneiros (PE) | 2 vezes
+- São Miguel dos Milagres (AL) | 2 vezes
+- Ilha de Itamaracá (PE) | 3 vezes
+  - No passado, cerca de 40 a 60 anos atrás, Itamaracá tinha o protagonismo turístico que Porto de Galinhas tem tido nos últimos anos. Diferentemente de todas as praias citadas acima, Itamaracá fica ao Norte do Estado, próximo à divisa com a Paraíba.
+- Campina Grande | 1 vez (PB) - compromisso profissional 
+  - 
+- Cumbuco (CE) | 2 vezes
+  - 
 
 
 
+### Fun facts
 
-
-\### Local Proud Bias
-
-
-
-- bairrismo é uma doença que se combate viajante. Acho que estou em processo de cura.
-- Chama atenção: talvez, se acham o já foram muito maiores do que são 
-- Além disso, tem um protagonismo regional no nordeste, ainda que periférico  nacionalmente. Em geral, as pessoas se compram com a aldeia vizinha. E  não com as melhores aldeias.
-
-
-
-\### Fun facts
-
-- A forma correta de se referir à cidade é No recife, e não Em Recife. O pessoal vai sacar de longe que seu  sotaque não é de lá e eles são meio paneleiro. Se meter um “em Recife”  já começa com o pé esquerdo. 
-- Existe várias coisas que Recife foi pioneiro. Isso contribui pro local proud bias ser intenso. 
-- O *Recife Antigo* é chamado assim por todo mundo. Às vezes, os nativos dizem Marco Zero. O engraçado é o que Bairro se chama Bairro do Recife e fica numa cidade chamada Recife, rs. Acho que o pessoal tava sem criatividade quando escolheu, rs.
-- Rosa dos ventos vs zona norte; sul...
+- A forma correta de se referir à cidade é *no Recife* ou *o Recife*, e não *em Recife*. O pessoal vai sacar de longe que seu  sotaque não é de lá. E o pessoal é meio paneleiro... Se meter um *em Recife*, então, já começa com o pé esquerdo;
+- Curiosamente, para as pesssoas de fora do Recife, se você falar *no Recife* parece equivocado, proviciano ou estranho; 
+- O *Recife Antigo* é chamado assim por todo mundo. Às vezes, os nativos dizem *Marco Zero* numa espécie de parte pelo todo metonímica. O engraçado é o que bairro citado se chama formalmente *Bairro do Recife*. Como sugerido pelo contexto, tal bairro fica na cidade chamada *Recife*, rs. Cuja referência é ao acidente geográfico marítimo rochoso comum na região chamado *Recife*. Acho que o pessoal tava sem criatividade quando escolheu, rs. Se eu criasse uma empresa lá, o nome seria EDR: *Empresa do Recife*, rs. 
+- A regiões da cidade não correspondem exatamente à rosa dos eventos. A região chamada por Norte pelos nativos, na verdade, fica a Oeste. Mesmo com o Sol se pondo lá todo dia, eles insistem que é a região Norte. A região chamada de Sul fica, de fato, no Sul, como Boa Viagem. Na geografia recifense, Norte e Sul formam um ângulo de 90,rs. Algum dia me explicaram algo relacionado ao Rio Capibaribe. Aparentemente, o que fica acima do rio é a Zona Norte e abaixo seria Zona Sul. Vai ver, para os Recifenses o Rio Capibaribe é mais relevante que o Sol, rs. Eu não duvido que eles acreditem nessa!
+- As pessoas tratam o feriado de São João como se fosse um natal. Inclusive desejando a semi-desconhecido... "Tenha um feliz São João". Ao ouvir isso pela primeira vez, eu buguei total. Observação: São João é a famosa festa junina.
 
 
 
-\### Bonnaparte
+### A parte boa
+
+
 
 - Árvores lindas
 - Pessoas gentis, especialmente com que é de fora 
@@ -184,9 +198,7 @@ Em 18 meses, esses foram os lugares visitados. COm exceção do Cumbuco, foram t
 - Bons serviços, horti, Açogue, galo padeiro 
 - Ótimos porteiros, garçons, profissionais de limpeza. Depois de 6.5 anos no Rj, eu tinha esquecido o que era ser bem atendido e recebido. Melhora muito a sua vida. 
 
-
-
-\### Os preferidos 
+### Os favoritos
 
 - livraria jaqueira
 - Bike em domingos e feriados
@@ -195,32 +207,45 @@ Em 18 meses, esses foram os lugares visitados. COm exceção do Cumbuco, foram t
 
 
 
+### Seção sincericida = sincero + suicida
 
-
-\### Seção sincericida = sincero + suicida
-
-- cheiro de mangue
-- Cheiro de mangue misturado com esgoto 
-- Cheiro de mangue, misturado com esgoto, no verão (sinistro) 
-- Suja 
-- Escura/ mal iluminada. Gotham City
-- Na questão de praia, recife em si é paia. Tubarão e não é tão bonito  quanto outras próximas. Em dias com muita gente, acumula-se uma sujeira  inacreditável. 
+- O cheiro de mangue é ruim, afinal, é matéria orgânica em decomposição;
+- O cheiro de mangue misturado com esgoto é péssimo;
+- O cheiro de mangue, misturado com esgoto, no verão é sinistro; 
+- A cidade é suja; 
+- A cidade é escura, muito mal iluminada. Algumas árvores que são lindas de dia ajudam a ofuscar os parcos postes disponíveis. Carinhosamente, chamávamos de *Gotham City*.
+- Na questão de praia, recife em si é fraco. Tem os ataques de tubarão, a sujeira da "porcada" e não é tão bonita quanto outras próximas. Em dias com muita gente, acumula-se uma sujeira inacreditável. 
 - Sem ondas. 
-- Várias partes da cidade são feias. No recife antigo, vc pode passar por ruas  recuperasse e outras horrorosas, a 4 metros de distância.
+- Várias partes da cidade são feias. No Recife Antigo, vc pode passar por ruas  recuperasse e outras horrorosas, a 4 metros de distância.
 - Não é tão comum ter pessoas de fora do Nordeste lá. De fora do país então,  mais raro ainda. A etiqueta de forasteiro estará sempre em vc. As vezes  tem pontos até positivos nisso. Cuidado pra não subirem preços por isso, como fizeram comigo. Evite contratações por telefone, rs. 
 - Presenciei pelo menos dois assaltos. A violência é menos ostensiva que a do RJ. No Rj, eu tinha receio de balas perdidas, extorsão, roubos e furtos. No  Recife, meu medo era mais de roubos e furtos. 
 - Pobreza extrema: palafitas. Existe pobreza e favelas em outras cidades,  inclusive no Recife. A precariedade das palafitas é singularmente  incômoda só de passar perto (imagine morar lá). 
 
 
 
+### Voltaria lá?
 
+Algumas praias visitadas no litoral de Pernambuco, talvez. Em especial, Maracaípe <3. Ainda preciso surfar de fato lá com o mar grandão. Recife mesmo? Não. 
 
-\### Voltaria lá?
-
-
-
-Algumas praias visitadas no litoral de Pernambuco, talvez. Recife? Não. 
+*Life is short. The world is huge*. Voltaria ao Recife só se tivesse algum compromisso profissional ou algo muito específico e mandatório. Por diversão, não iria. E nem recomendo! 
 
 
 
-Life is short. The world is huge. Voltaria ao Recife só se tivesse algum  compromisso profissional ou algo muito específico e mandatório. Por  diversão, não iria. E nem recomendo! 
+###  Língua franca
+
+Algumas gíricas locais e seus significados:
+
+- Tabacudo = idiota;
+- Apereado = encrencado;
+- Bronca = problema;
+- "e, então", bizarramente, significa "pois é". Um colega de trabalho costumaza responder minhas afirmações com "e, então". Dada a modernidade da comunicação, eu tendi a achar que ele estava me pedindo para continuar, talvez, sem uma interrogação explícita, para ser menos direto. Na verdade, ele estava concordando comigo, como se dissesse, "pois é". Aposto que ele me achava prolixo, já que eu sempre repetia a informação anterior ao "e, então" com outras palavras.
+- Dá gota = Dá porra;
+- Arrombado é uma palavra engraçada. Ela pode ter conotação positiva. Uma vez, num evento de comemoração, uma pessoa disse num grupo corporativo "esse sanfoneiro é um arrombado!". Eu fiquei chocado, rs. A frase vinha do direito que o havia contratado para o evento. Mas, na verdade, era um elogio, rs.
+
+
+
+### Playlist elaborada pela DeeJay Feeh
+
+- Alceu Valença, *La belle de Jur*
+
+  
