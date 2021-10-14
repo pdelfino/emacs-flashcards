@@ -22,7 +22,7 @@ How to open a file in Emacs?
 
 =C-x C-f= runs the =find-file=.
 
-*** Exercise 2 :drill:
+*** Exercise 2  :drill:
 SCHEDULED: <2021-10-17 dom>
 :PROPERTIES:
 :ID:       26f20950-7616-47af-8475-8c4087d0cdbe
@@ -41,3 +41,91 @@ How to close Emacs?
 **** The Answer
 
 =C-x C-c=
+
+*** Exercise 3                                                  :drill:dired:
+SCHEDULED: <2021-10-18 seg>
+:PROPERTIES:
+:ID:       8bb25e92-f297-45de-ba11-3ef2e964b82e
+:DRILL_LAST_INTERVAL: 4.14
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-10-14 qui 10:16]
+:END:
+
+How to open dired?
+
+**** The Answer
+
+=C-x d=
+
+*** Exercise 4                                                  :drill:dired:
+SCHEDULED: <2021-10-18 seg>
+:PROPERTIES:
+:ID:       1f80afc2-cab4-4634-9c12-1a1ce18bd716
+:DRILL_LAST_INTERVAL: 4.14
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-10-14 qui 10:16]
+:END:
+
+How to close dired?
+
+**** The Answer
+
+=q=
+
+*** Exercise 5 :drill:move:
+
+How to move to the next s-expression?
+
+**** Answer
+
+=C-M-f=
+
+*** Exercise 6 :drill:move:
+
+How to move to the last s-expression?
+
+**** Answer
+
+=C-M-b=
+
+*** Exercise 7 :drill:org:
+
+How to move to the next org heading (not in the same level)?
+
+**** Answer
+
+=C-c C-n=
+
+*** Exercise 8                                                    :drill:org:
+
+How to move to the previous org heading (not in the same level)?
+
+**** Answer
+
+=C-c C-p= 
+
+*** Exercise 9                                                    :drill:org:
+
+How to move to the next org heading in the same level?
+
+**** Answer
+
+=C-c C-f=
+
+*** Exercise 10                                                   :drill:org:
+
+How to move to the previous org heading in the same level?
+
+**** Answer
+
+=C-c C-b= 
