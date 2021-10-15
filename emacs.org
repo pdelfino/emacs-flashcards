@@ -156,7 +156,15 @@ How to move to the next item of the list?
 
 =S down=
 
-*** Exercise 12 :drill:org:
+*** Exercise 12 :drill:dired:
+
+How to move to the parent directory?
+
+**** Answer
+
+=^=
+
+*** Exercise 13                                                   :drill:org:
 
 How to move to the previous element of 
 the list?
