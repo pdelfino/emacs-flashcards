@@ -168,7 +168,7 @@ How to move to the parent directory?
 *** Exercise 13                                                   :drill:org:
 
 How to move to the previous element of 
-the list?
+the list in an org file?
 
 **** Answer
 
