@@ -16,7 +16,7 @@ SCHEDULED: <2021-10-17 dom>
 :DRILL_LAST_REVIEWED: [2021-10-13 qua 19:46]
 :END:
 
-How to open a file in Emacs?
+In general, how to open a file in Emacs?
 
 **** The Answer
 
@@ -36,7 +36,7 @@ SCHEDULED: <2021-10-17 dom>
 :DRILL_LAST_REVIEWED: [2021-10-13 qua 19:46]
 :END:
 
-How to close Emacs?
+In general, how to close Emacs?
 
 **** The Answer
 
@@ -56,7 +56,7 @@ SCHEDULED: <2021-10-18 seg>
 :DRILL_LAST_REVIEWED: [2021-10-14 qui 10:16]
 :END:
 
-How to open dired?
+In dired, how to open dired?
 
 **** The Answer
 
@@ -76,73 +76,127 @@ SCHEDULED: <2021-10-18 seg>
 :DRILL_LAST_REVIEWED: [2021-10-14 qui 10:16]
 :END:
 
-How to close dired?
+In dired, how to close dired?
 
 **** The Answer
 
 =q=
 
 *** Exercise 5 :drill:move:
+SCHEDULED: <2021-10-19 ter>
 :PROPERTIES:
 :ID:       f5690057-e0b4-4132-8936-f566cfd30c59
+:DRILL_LAST_INTERVAL: 4.14
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-10-15 sex 16:42]
 :END:
 
-How to move to the next s-expression?
+In lisp file, how to move to the next s-expression?
 
 **** Answer
 
 =C-M-f=
 
 *** Exercise 6 :drill:move:
+SCHEDULED: <2021-10-19 ter>
 :PROPERTIES:
 :ID:       653842f2-504b-4a6b-b2d5-c03841b41702
+:DRILL_LAST_INTERVAL: 4.14
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-10-15 sex 16:41]
 :END:
 
-How to move to the previous s-expression?
+In lisp file, how to move to the previous s-expression?
 
 **** Answer
 
 =C-M-b=
 
 *** Exercise 7 :drill:org:
+SCHEDULED: <2021-10-19 ter>
 :PROPERTIES:
 :ID:       0cefa81d-728e-49f8-a209-a35bdd283608
+:DRILL_LAST_INTERVAL: 4.14
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-10-15 sex 16:41]
 :END:
 
-How to move to the next org heading (not in the same level)?
+In org, how to move to the next org heading (not in the same level)?
 
 **** Answer
 
 =C-c C-n=
 
 *** Exercise 8                                                    :drill:org:
+SCHEDULED: <2021-10-19 ter>
 :PROPERTIES:
 :ID:       3d24c0cd-ba5d-43e6-9c71-0c02a4477610
+:DRILL_LAST_INTERVAL: 4.14
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-10-15 sex 16:42]
 :END:
 
-How to move to the previous org heading (not in the same level)?
+In org, how to move to the previous org heading (not in the same level)?
 
 **** Answer
 
 =C-c C-p= 
 
 *** Exercise 9                                                    :drill:org:
+SCHEDULED: <2021-10-19 ter>
 :PROPERTIES:
 :ID:       4c310942-ba73-4634-ba24-99b42ab959a6
+:DRILL_LAST_INTERVAL: 4.14
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-10-15 sex 16:42]
 :END:
 
-How to move to the next org heading in the same level?
+In org, how to move to the next org heading in the same level?
 
 **** Answer
 
 =C-c C-f=
 
 *** Exercise 10                                                   :drill:org:
+SCHEDULED: <2021-10-19 ter>
 :PROPERTIES:
 :ID:       36fd9aaf-32d1-45ef-a915-5e36f06cda43
+:DRILL_LAST_INTERVAL: 4.14
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 3.5
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-10-15 sex 16:42]
 :END:
 
-How to move to the previous org heading in the same level?
+In org, how to move to the previous org heading in the same level?
 
 **** Answer
 
@@ -150,22 +204,58 @@ How to move to the previous org heading in the same level?
 
 
 *** Exercise 11 :drill:org:
+SCHEDULED: <2021-10-19 ter>
+:PROPERTIES:
+:ID:       30abcea9-9258-4086-803c-fb7157bc828a
+:DRILL_LAST_INTERVAL: 4.14
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 3.5
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-10-15 sex 16:42]
+:END:
 
-How to move to the next item of the list?
+In org, how to move to the next item of the list?
 
 **** Answer
 
 =S down=
 
 *** Exercise 12 :drill:dired:
+SCHEDULED: <2021-10-19 ter>
+:PROPERTIES:
+:ID:       e3383d31-86e9-49b3-be56-1c9ee6b1621b
+:DRILL_LAST_INTERVAL: 4.14
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2021-10-15 sex 16:41]
+:END:
 
-How to move to the parent directory?
+In dired, how to move to the parent directory?
 
 **** Answer
 
 =^=
 
 *** Exercise 13                                                   :drill:org:
+SCHEDULED: <2021-10-19 ter>
+:PROPERTIES:
+:ID:       503b9f61-8706-41bb-84c7-bce62a8a1998
+:DRILL_LAST_INTERVAL: 4.0
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 4.0
+:DRILL_EASE: 2.5
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2021-10-15 sex 16:41]
+:END:
 
 How to move to the previous element of 
 the list in an org file?
