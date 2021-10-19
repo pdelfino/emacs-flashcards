@@ -263,3 +263,12 @@ the list in an org file?
 **** Answer
 
 =S up=
+
+*** Exercise 14                                                   :drill:org:
+
+How to move to indent a s-expression?
+Someting like fill-paragraph but for s-expressions?
+
+**** Answer
+
+=C-M-q= which is bounded to =indent-pp-sexp=
