@@ -266,9 +266,17 @@ the list in an org file?
 
 *** Exercise 14                                                   :drill:org:
 
-How to move to indent a s-expression?
+How to indent a s-expression?
 Someting like fill-paragraph but for s-expressions?
 
 **** Answer
 
 =C-M-q= which is bounded to =indent-pp-sexp=
+
+*** Exercise 15                                                   :drill:org:
+
+How to delete all whitespaces untill a character?
+
+**** Answer
+
+=M-\= which is bounded to =delete-horizontal-space=
