@@ -3,17 +3,17 @@
 ** Keybindings 
 
 *** Exercise 1  :drill:
-SCHEDULED: <2021-10-17 dom>
+SCHEDULED: <2021-11-09 ter>
 :PROPERTIES:
 :ID:       74acbb92-63f6-4856-bc45-cb2a97811422
-:DRILL_LAST_INTERVAL: 4.14
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 11.1407
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2021-10-13 qua 19:46]
+:DRILL_LAST_REVIEWED: [2021-10-29 sex 14:49]
 :END:
 
 In general, how to open a file in Emacs?
@@ -23,17 +23,17 @@ In general, how to open a file in Emacs?
 =C-x C-f= runs the =find-file=.
 
 *** Exercise 2  :drill:
-SCHEDULED: <2021-10-17 dom>
+SCHEDULED: <2021-11-09 ter>
 :PROPERTIES:
 :ID:       26f20950-7616-47af-8475-8c4087d0cdbe
-:DRILL_LAST_INTERVAL: 4.14
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 11.1407
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2021-10-13 qua 19:46]
+:DRILL_LAST_REVIEWED: [2021-10-29 sex 14:49]
 :END:
 
 In general, how to close Emacs?
@@ -43,17 +43,17 @@ In general, how to close Emacs?
 =C-x C-c=
 
 *** Exercise 3                                                  :drill:dired:
-SCHEDULED: <2021-10-18 seg>
+SCHEDULED: <2021-11-09 ter>
 :PROPERTIES:
 :ID:       8bb25e92-f297-45de-ba11-3ef2e964b82e
-:DRILL_LAST_INTERVAL: 4.14
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 11.1407
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2021-10-14 qui 10:16]
+:DRILL_LAST_REVIEWED: [2021-10-29 sex 14:49]
 :END:
 
 In dired, how to open dired?
@@ -63,17 +63,17 @@ In dired, how to open dired?
 =C-x d=
 
 *** Exercise 4                                                  :drill:dired:
-SCHEDULED: <2021-10-18 seg>
+SCHEDULED: <2021-11-09 ter>
 :PROPERTIES:
 :ID:       1f80afc2-cab4-4634-9c12-1a1ce18bd716
-:DRILL_LAST_INTERVAL: 4.14
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 11.1407
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2021-10-14 qui 10:16]
+:DRILL_LAST_REVIEWED: [2021-10-29 sex 14:49]
 :END:
 
 In dired, how to close dired?
@@ -83,17 +83,17 @@ In dired, how to close dired?
 =q=
 
 *** Exercise 5 :drill:move:
-SCHEDULED: <2021-10-19 ter>
+SCHEDULED: <2021-11-09 ter>
 :PROPERTIES:
 :ID:       f5690057-e0b4-4132-8936-f566cfd30c59
-:DRILL_LAST_INTERVAL: 4.14
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 10.764
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
-:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_AVERAGE_QUALITY: 4.5
 :DRILL_EASE: 2.6
-:DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2021-10-15 sex 16:42]
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2021-10-29 sex 14:51]
 :END:
 
 In lisp file, how to move to the next s-expression?
@@ -103,17 +103,17 @@ In lisp file, how to move to the next s-expression?
 =C-M-f=
 
 *** Exercise 6 :drill:move:
-SCHEDULED: <2021-10-19 ter>
+SCHEDULED: <2021-11-09 ter>
 :PROPERTIES:
 :ID:       653842f2-504b-4a6b-b2d5-c03841b41702
-:DRILL_LAST_INTERVAL: 4.14
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 11.1407
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
+:DRILL_EASE: 2.7
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2021-10-15 sex 16:41]
+:DRILL_LAST_REVIEWED: [2021-10-29 sex 14:49]
 :END:
 
 In lisp file, how to move to the previous s-expression?
@@ -123,17 +123,17 @@ In lisp file, how to move to the previous s-expression?
 =C-M-b=
 
 *** Exercise 7 :drill:org:
-SCHEDULED: <2021-10-19 ter>
+SCHEDULED: <2021-11-02 ter>
 :PROPERTIES:
 :ID:       0cefa81d-728e-49f8-a209-a35bdd283608
 :DRILL_LAST_INTERVAL: 4.14
 :DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
-:DRILL_FAILURE_COUNT: 0
-:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 3.667
 :DRILL_EASE: 2.6
-:DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2021-10-15 sex 16:41]
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2021-10-29 sex 14:52]
 :END:
 
 In org, how to move to the next org heading (not in the same level)?
@@ -143,17 +143,17 @@ In org, how to move to the next org heading (not in the same level)?
 =C-c C-n=
 
 *** Exercise 8                                                    :drill:org:
-SCHEDULED: <2021-10-19 ter>
+SCHEDULED: <2021-11-02 ter>
 :PROPERTIES:
 :ID:       3d24c0cd-ba5d-43e6-9c71-0c02a4477610
 :DRILL_LAST_INTERVAL: 4.14
 :DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
-:DRILL_FAILURE_COUNT: 0
-:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 3.333
 :DRILL_EASE: 2.6
-:DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2021-10-15 sex 16:42]
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2021-10-29 sex 14:52]
 :END:
 
 In org, how to move to the previous org heading (not in the same level)?
@@ -163,17 +163,17 @@ In org, how to move to the previous org heading (not in the same level)?
 =C-c C-p= 
 
 *** Exercise 9                                                    :drill:org:
-SCHEDULED: <2021-10-19 ter>
+SCHEDULED: <2021-11-02 ter>
 :PROPERTIES:
 :ID:       4c310942-ba73-4634-ba24-99b42ab959a6
 :DRILL_LAST_INTERVAL: 4.14
 :DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 2
-:DRILL_FAILURE_COUNT: 1
+:DRILL_TOTAL_REPEATS: 4
+:DRILL_FAILURE_COUNT: 2
 :DRILL_AVERAGE_QUALITY: 3.0
 :DRILL_EASE: 2.6
-:DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2021-10-15 sex 16:42]
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2021-10-29 sex 14:52]
 :END:
 
 In org, how to move to the next org heading in the same level?
@@ -183,17 +183,17 @@ In org, how to move to the next org heading in the same level?
 =C-c C-f=
 
 *** Exercise 10                                                   :drill:org:
-SCHEDULED: <2021-10-19 ter>
+SCHEDULED: <2021-11-08 seg>
 :PROPERTIES:
 :ID:       36fd9aaf-32d1-45ef-a915-5e36f06cda43
-:DRILL_LAST_INTERVAL: 4.14
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 2
+:DRILL_LAST_INTERVAL: 10.3873
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 3
 :DRILL_FAILURE_COUNT: 1
-:DRILL_AVERAGE_QUALITY: 3.5
-:DRILL_EASE: 2.6
-:DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2021-10-15 sex 16:42]
+:DRILL_AVERAGE_QUALITY: 3.333
+:DRILL_EASE: 2.46
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2021-10-29 sex 14:51]
 :END:
 
 In org, how to move to the previous org heading in the same level?
@@ -204,17 +204,17 @@ In org, how to move to the previous org heading in the same level?
 
 
 *** Exercise 11 :drill:org:
-SCHEDULED: <2021-10-19 ter>
+SCHEDULED: <2021-11-02 ter>
 :PROPERTIES:
 :ID:       30abcea9-9258-4086-803c-fb7157bc828a
 :DRILL_LAST_INTERVAL: 4.14
 :DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 2
-:DRILL_FAILURE_COUNT: 1
-:DRILL_AVERAGE_QUALITY: 3.5
+:DRILL_TOTAL_REPEATS: 4
+:DRILL_FAILURE_COUNT: 2
+:DRILL_AVERAGE_QUALITY: 3.25
 :DRILL_EASE: 2.6
-:DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2021-10-15 sex 16:42]
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2021-10-29 sex 14:52]
 :END:
 
 In org, how to move to the next item of the list?
@@ -224,17 +224,17 @@ In org, how to move to the next item of the list?
 =S down=
 
 *** Exercise 12 :drill:dired:
-SCHEDULED: <2021-10-19 ter>
+SCHEDULED: <2021-11-02 ter>
 :PROPERTIES:
 :ID:       e3383d31-86e9-49b3-be56-1c9ee6b1621b
 :DRILL_LAST_INTERVAL: 4.14
 :DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
-:DRILL_FAILURE_COUNT: 0
-:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 3.0
 :DRILL_EASE: 2.6
-:DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [2021-10-15 sex 16:41]
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2021-10-29 sex 14:52]
 :END:
 
 In dired, how to move to the parent directory?
@@ -244,17 +244,17 @@ In dired, how to move to the parent directory?
 =^=
 
 *** Exercise 13                                                   :drill:org:
-SCHEDULED: <2021-10-19 ter>
+SCHEDULED: <2021-11-08 seg>
 :PROPERTIES:
 :ID:       503b9f61-8706-41bb-84c7-bce62a8a1998
-:DRILL_LAST_INTERVAL: 4.0
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
+:DRILL_LAST_INTERVAL: 10.0
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 4.0
 :DRILL_EASE: 2.5
 :DRILL_LAST_QUALITY: 4
-:DRILL_LAST_REVIEWED: [2021-10-15 sex 16:41]
+:DRILL_LAST_REVIEWED: [2021-10-29 sex 14:50]
 :END:
 
 How to move to the previous element of 
@@ -265,18 +265,81 @@ the list in an org file?
 =S up=
 
 *** Exercise 14                                                   :drill:org:
+SCHEDULED: <2021-11-02 ter>
+:PROPERTIES:
+:ID:       094476b5-bd9d-4f87-be3e-a684eab9b625
+:DRILL_LAST_INTERVAL: 4.0
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 4.0
+:DRILL_EASE: 2.5
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2021-10-29 sex 14:52]
+:END:
 
 How to indent a s-expression?
 Someting like fill-paragraph but for s-expressions?
 
 **** Answer
-
 =C-M-q= which is bounded to =indent-pp-sexp=
 
 *** Exercise 15                                                   :drill:org:
+SCHEDULED: <2021-11-02 ter>
+:PROPERTIES:
+:ID:       b95a901b-aa89-44a0-a2c3-6ef75e513217
+:DRILL_LAST_INTERVAL: 4.0
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 4.0
+:DRILL_EASE: 2.5
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2021-10-29 sex 14:51]
+:END:
 
 How to delete all whitespaces untill a character?
 
 **** Answer
 
 =M-\= which is bounded to =delete-horizontal-space=
+
+*** Exercise 16                                                   :drill:org:
+SCHEDULED: <2021-11-02 ter>
+:PROPERTIES:
+:ID:       3a227762-2f89-4cb6-8663-fcfd8fa50dbb
+:DRILL_LAST_INTERVAL: 4.0
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 4.0
+:DRILL_EASE: 2.5
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2021-10-29 sex 14:52]
+:END:
+
+How to move the point from the beginning of the line until the first character?
+
+**** Answer
+
+=M-m= which is bounded to =back-to-indentation=
+
+*** Exercise 17                                                   :drill:org:
+SCHEDULED: <2021-11-02 ter>
+:PROPERTIES:
+:ID:       bd74c351-9dbc-4afd-a008-9261a6b3b12f
+:DRILL_LAST_INTERVAL: 4.0
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 4.0
+:DRILL_EASE: 2.5
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2021-10-29 sex 14:52]
+:END:
+
+How to inspect the object without needing to right click with the mouse?
+
+**** Answer
+
+=C-c C-v C-i= which is bounded to =slime-presentation-at-point=
