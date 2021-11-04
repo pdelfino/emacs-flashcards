@@ -343,3 +343,25 @@ How to inspect the object without needing to right click with the mouse?
 **** Answer
 
 =C-c C-v C-i= which is bounded to =slime-presentation-at-point=
+
+*** Exercise 18                                                   :drill:org:
+SCHEDULED: <2021-11-02 ter>
+:PROPERTIES:
+:ID:       bd74c351-9dbc-4afd-a008-9261a6b3b12f
+:DRILL_LAST_INTERVAL: 4.0
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 4.0
+:DRILL_EASE: 2.5
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2021-10-29 sex 14:52]
+:END:
+
+How to fix a word using flyspell and not touching the mouse?
+
+**** Answer
+
+=C-c $= which is bounded to
+=flyspell-correct-word-before-point=. There are multiple commands
+related to the "prefix" =flyspell-correct-word...=.
