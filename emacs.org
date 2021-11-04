@@ -408,4 +408,4 @@ How to capitalize a word, for instance, from "lisp"->"Lisp"?
 
 **** Answer
 
-Execute command =capitalize-word=.
+Execute command =capitalize-word= which is bounded to =M-c=.
