@@ -393,3 +393,11 @@ How to transpose lines?
 **** Answer
 
 =C x C t=. The exact position of the point (mark or cursor) is hugely important.
+
+*** Exercise 23
+
+How to make the org-clock calculate the delta of time => ?
+
+**** Answer
+
+Execute command =org-clock-update-time-maybe=.
