@@ -401,3 +401,11 @@ How to make the org-clock calculate the delta of time => ?
 **** Answer
 
 Execute command =org-clock-update-time-maybe=.
+
+*** Exercise 24
+
+How to capitalize a word, for instance, from "lisp"->"Lisp"?
+
+**** Answer
+
+Execute command =capitalize-word=.
