@@ -344,19 +344,7 @@ How to inspect the object without needing to right click with the mouse?
 
 =C-c C-v C-i= which is bounded to =slime-presentation-at-point=
 
-*** Exercise 18                                                   :drill:org:
-SCHEDULED: <2021-11-02 ter>
-:PROPERTIES:
-:ID:       bd74c351-9dbc-4afd-a008-9261a6b3b12f
-:DRILL_LAST_INTERVAL: 4.0
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
-:DRILL_FAILURE_COUNT: 0
-:DRILL_AVERAGE_QUALITY: 4.0
-:DRILL_EASE: 2.5
-:DRILL_LAST_QUALITY: 4
-:DRILL_LAST_REVIEWED: [2021-10-29 sex 14:52]
-:END:
+*** Exercise 18                                                   :org:
 
 How to fix a word using flyspell and not touching the mouse?
 
@@ -365,3 +353,43 @@ How to fix a word using flyspell and not touching the mouse?
 =C-c $= which is bounded to
 =flyspell-correct-word-before-point=. There are multiple commands
 related to the "prefix" =flyspell-correct-word...=.
+
+*** Exercise 19                                                   :drill:org:
+:PROPERTIES:
+:ID:       b6f646fc-f486-489b-bdf8-f58f97c5dfac
+:END:
+How to transpose characters?
+
+**** Answer
+
+=C t=.
+
+*** Exercise 20                                                   :drill:org:
+:PROPERTIES:
+:ID:       5a740609-3498-4517-a307-8e57ff7c36d9
+:END:
+How to transpose words?
+
+**** Answer
+
+=M t=. The exact position of the point (mark or cursor) is hugely important.
+
+*** Exercise 21                                                   :drill:org:
+:PROPERTIES:
+:ID:       41282f8c-2f45-4cdb-a3b6-48d07d084f68
+:END:
+How to transpose s-expressions?
+
+**** Answer
+
+=C M t=. The exact position of the point (mark or cursor) is hugely important.
+
+*** Exercise 22                                                   :drill:org:
+:PROPERTIES:
+:ID:       38894203-cc3c-4cb6-bf0e-aa8a5444452d
+:END:
+How to transpose lines?
+
+**** Answer
+
+=C x C t=. The exact position of the point (mark or cursor) is hugely important.
