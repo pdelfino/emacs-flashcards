@@ -20,7 +20,7 @@ In general, how to open a file in Emacs?
 
 **** The Answer
 
-=C-x C-f= runs the =find-file=.
+Execute command =find-file= which is bounded to =C-x C-f=.
 
 *** Exercise 2  :drill:
 SCHEDULED: <2021-11-09 ter>
@@ -40,7 +40,7 @@ In general, how to close Emacs?
 
 **** The Answer
 
-=C-x C-c=
+Execute command =save-buffers-kill-terminal= which is bounded to  =C-x C-c=.
 
 *** Exercise 3                                                  :drill:dired:
 SCHEDULED: <2021-11-09 ter>
@@ -60,7 +60,7 @@ In dired, how to open dired?
 
 **** The Answer
 
-=C-x d=
+Execute command =dired= which is bounded to =C-x d=.
 
 *** Exercise 4                                                  :drill:dired:
 SCHEDULED: <2021-11-09 ter>
@@ -282,27 +282,23 @@ How to indent a s-expression?
 Someting like fill-paragraph but for s-expressions?
 
 **** Answer
-=C-M-q= which is bounded to =indent-pp-sexp=
+=C-M-q= which is bounded to =indent-pp-sexp=.
 
 *** Exercise 15                                                   :drill:org:
-SCHEDULED: <2021-11-02 ter>
-:PROPERTIES:
-:ID:       b95a901b-aa89-44a0-a2c3-6ef75e513217
-:DRILL_LAST_INTERVAL: 4.0
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
-:DRILL_FAILURE_COUNT: 0
-:DRILL_AVERAGE_QUALITY: 4.0
-:DRILL_EASE: 2.5
-:DRILL_LAST_QUALITY: 4
-:DRILL_LAST_REVIEWED: [2021-10-29 sex 14:51]
-:END:
 
-How to delete all whitespaces untill a character?
+Suppose you have a phrase with multiple white-spaces at the beginning
+of the line:
+
+"          This is an example with a lot of white-space."
+
+How to remove **all** the white-spaces in the beginning?
 
 **** Answer
 
-=M-\= which is bounded to =delete-horizontal-space=
+Execute command =delete-horizontal-space= which is bounded to =M-\=.
+Observation: In my notebook, with Portuguese keyboard you need to
+press "Alt -" to get the "\" character.
+
 
 *** Exercise 16                                                   :drill:org:
 SCHEDULED: <2021-11-02 ter>
@@ -338,7 +334,7 @@ SCHEDULED: <2021-11-02 ter>
 :DRILL_LAST_REVIEWED: [2021-10-29 sex 14:52]
 :END:
 
-How to inspect the object without needing to right click with the mouse?
+In Slime, how to inspect the object without needing to right click with the mouse?
 
 **** Answer
 
