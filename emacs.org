@@ -404,7 +404,8 @@ Execute command =org-clock-update-time-maybe=.
 
 *** Exercise 24
 
-How to capitalize a word, for instance, from "lisp"->"Lisp"?
+How to uppercase **only** the first letter of a word. This is also
+called capitalizing words. For instance, changing from "lisp"->"Lisp"?
 
 **** Answer
 
