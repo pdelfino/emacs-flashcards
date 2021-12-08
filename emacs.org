@@ -409,3 +409,52 @@ How to capitalize a word, for instance, from "lisp"->"Lisp"?
 **** Answer
 
 Execute command =capitalize-word= which is bounded to =M-c=.
+
+*** Exercise 25
+
+How to uppercase the whole word?
+or instance, move "lisp" -> "LISP".
+
+**** Answer
+
+Execute command =upcase-word= which is bounded to =M-u=.
+
+*** Exercise 26
+
+How to lowercase the whole word?
+For instance, move "LISP" -> "lisp".
+    
+**** Answer
+
+Execute command =downcase-word= which is bounded to =M-l=.
+
+*** Exercise 27
+
+How to move to the first non-whitespace character?
+
+**** Answer
+
+Execute command =back-to-identation= which is bounded to =M-m=.
+
+*** Exercise 28
+
+There are multiple white-spaces between two words.  Such as "first
+second". How to turn the space between them to be just one whitespace?
+
+**** Answer
+
+Execute command =just-one-space= which is bounded to =M-SPC=.
+
+
+*** Exercise 29
+
+Suppose you want to delete everything until a certain character and including this character.
+For instance, on the phrase below:
+
+"               Pernambuco has some cool things"
+
+Delete everything leaving just "as some cool things".
+
+**** Answer
+
+Execute command =zap-to-char= which is bounded to =M-z=.
