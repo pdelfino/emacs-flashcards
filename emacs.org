@@ -455,3 +455,12 @@ Delete everything leaving just "as some cool things".
 **** Answer
 
 Execute command =zap-to-char= which is bounded to =M-z=.
+
+*** Exercise 30
+
+How to indent an S-expression automatically?
+Not sure if having a lisp image loaded makes a difference.
+
+**** Answer
+
+Execute command =indent-sexp= which is bounded to =C-M-q=.
