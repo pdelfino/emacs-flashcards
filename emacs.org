@@ -464,3 +464,12 @@ Not sure if having a lisp image loaded makes a difference.
 **** Answer
 
 Execute command =indent-sexp= which is bounded to =C-M-q=.
+
+*** Exercise 31
+
+How to downcase a region?
+
+
+**** Answer
+
+Execute command =downcase-region= which is bounded to =C-x C-l=.
