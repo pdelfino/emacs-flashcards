@@ -469,7 +469,25 @@ Execute command =indent-sexp= which is bounded to =C-M-q=.
 
 How to downcase a region?
 
-
 **** Answer
 
-Execute command =downcase-region= which is bounded to =C-x C-l=.
+     Execute command =downcase-region= which is bounded to =C-x C-l=.
+
+
+*** Exercise 32
+
+How to remove all blank lines in a region or buffer?
+
+**** Answer
+     
+Execute command =M-x flush-lines RET ^$ RET=.
+
+*** Exercise 33
+
+Using shell in Emacs, how to open a file in the current application
+instead of another application?
+
+**** Answer
+     
+Use =$ emacsclient README.org=.
+
