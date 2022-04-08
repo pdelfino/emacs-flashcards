@@ -491,3 +491,11 @@ instead of another application?
      
 Use =$ emacsclient README.org=.
 
+*** Exercise 34
+
+How to "refresh a buffer" in Emacs?
+
+**** Answer
+     
+Use =revert buffer= which is binded in my config to =C-x C-M-r=.
+
