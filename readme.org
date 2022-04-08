@@ -56,7 +56,7 @@ main commands and keybindings.
    :END:
 
 You will need to open the =emacs.org= available in this repo using
-Emacs. And then, you need to rung =org-drill= with =M-x org-drill=.
+Emacs. And then, you need to run =org-drill= with =M-x org-drill=.
 For more information on how to use Org-drill check this [[https://orgmode.org/worg/org-contrib/org-drill.html][out]].
 
 ** Who is this for?
