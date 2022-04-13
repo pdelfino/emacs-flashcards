@@ -499,3 +499,11 @@ How to "refresh a buffer" in Emacs?
      
 Use =revert buffer= which is binded in my config to =C-x C-M-r=.
 
+*** Exercise 35
+
+How to go to the last marked placed =C-SPC=?
+
+**** Answer
+
+Just do =C-u C-SPC=. Observation: I do not know this command name.
+
