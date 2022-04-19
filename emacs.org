@@ -458,12 +458,12 @@ Delete everything leaving just "as some cool things".
 
 Execute command =zap-to-char= which is bounded to =M-z=.
 
-*** Exercise 30
+*** Exercise 30 [REPETITIVE]
 
 How to indent an S-expression automatically?
 Not sure if having a lisp image loaded makes a difference.
 
-**** Answer
+**** Answer [REPETITIVE]
 
 Execute command =indent-sexp= which is bounded to =C-M-q=.
 
@@ -473,8 +473,7 @@ How to downcase a region?
 
 **** Answer
 
-     Execute command =downcase-region= which is bounded to =C-x C-l=.
-
+Execute command =downcase-region= which is bounded to =C-x C-l=.
 
 *** Exercise 32
 
