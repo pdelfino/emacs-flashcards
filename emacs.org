@@ -428,13 +428,14 @@ For instance, move "LISP" -> "lisp".
 
 Execute command =downcase-word= which is bounded to =M-l=.
 
-*** Exercise 27 [REPETITIVE]
+*** Exercise 27
 
-How to move to the first non-whitespace character?
+How to find out the problematic parens in a Elisp or Common Lisp file?
 
-**** Answer [REPETITIVE]
+**** Answer 
 
-Execute command =back-to-identation= which is bounded to =M-m=.
+Execute the command =check-parens=. The cursor will be placed on the
+problematic parenthesis.
 
 *** Exercise 28
 
