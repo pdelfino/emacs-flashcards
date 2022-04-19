@@ -392,7 +392,10 @@ How to transpose lines?
 
 *** Exercise 23
 
-How to make the org-clock calculate the delta of time => ?
+How to make the org-clock calculate the delta of the intervl `=>'?
+
+This is specially useful after manually changing the raw file which is
+automatically written.
 
 **** Answer
 
@@ -425,11 +428,11 @@ For instance, move "LISP" -> "lisp".
 
 Execute command =downcase-word= which is bounded to =M-l=.
 
-*** Exercise 27
+*** Exercise 27 [REPETITIVE]
 
 How to move to the first non-whitespace character?
 
-**** Answer
+**** Answer [REPETITIVE]
 
 Execute command =back-to-identation= which is bounded to =M-m=.
 
