@@ -507,3 +507,10 @@ How to go to the last marked placed =C-SPC=?
 
 Just do =C-u C-SPC=. Observation: I do not know this command name.
 
+*** Exercise 36
+
+How to remove whitespace in the beginning of lines?
+
+**** Answer
+
+Mark the region and just do =delete-whitespace-rectangle=.
