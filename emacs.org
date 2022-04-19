@@ -443,8 +443,7 @@ second". How to turn the space between them to be just one whitespace?
 
 **** Answer
 
-Execute command =just-one-space= which is bounded to =M-SPC=.
-
+Execute command =just-one-space= which is bounded to =M-SPC=. Really useful one!
 
 *** Exercise 29
 
