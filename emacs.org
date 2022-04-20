@@ -525,3 +525,12 @@ How to do a great ripgrep inside Emacs?
 
 Use `counsel-projectile-rg` which is bounded to =C-c p s r=. This is
 the killer feature of projectile!
+
+*** Exercise 38
+
+How to delete whitespaces after the last character (aka trailing
+whitespace) in every line?
+
+**** Answer
+
+Use =delete-trailing-whitespace= (unbounded).
