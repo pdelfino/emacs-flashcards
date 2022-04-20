@@ -516,3 +516,12 @@ How to remove whitespace in the beginning of lines?
 **** Answer
 
 Mark the region and just do =delete-whitespace-rectangle=.
+
+*** Exercise 37
+
+How to do a great ripgrep inside Emacs?
+
+**** Answer
+
+Use `counsel-projectile-rg` which is bounded to =C-c p s r=. This is
+the killer feature of projectile!
