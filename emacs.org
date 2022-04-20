@@ -534,3 +534,11 @@ whitespace) in every line?
 **** Answer
 
 Use =delete-trailing-whitespace= (unbounded).
+
+*** Exercise 39
+
+What is the number #1 command for Magit to show you where you are?
+
+**** Answer
+
+Use =magit-status= (=C-x g=).     
