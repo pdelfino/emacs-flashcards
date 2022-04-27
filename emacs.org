@@ -542,3 +542,20 @@ What is the number #1 command for Magit to show you where you are?
 **** Answer
 
 Use =magit-status= (=C-x g=).     
+
+*** Exercise 40
+
+In Magit, how to pull out the stash list?
+
+**** Answer
+
+Hit =z= which is bounded to Stash.
+
+*** Exercise 41
+
+In Magit, how to stash both the index **and** the work tree?
+
+**** Answer
+
+Hit =z= again (after initial =z= to stash). This will stage all the
+files that are know by Git.
