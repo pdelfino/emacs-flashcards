@@ -559,3 +559,21 @@ In Magit, how to stash both the index **and** the work tree?
 
 Hit =z= again (after initial =z= to stash). This will stage all the
 files that are know by Git.
+
+*** Exercise 42
+
+The killer feature of Projectile is known as
+`counsel-projectile-rg'. The "rg" part stands for "rip grep". What is
+the binding?
+
+**** Answer
+
+Hit =C-c p s r=.
+
+*** Exercise 43
+
+Projectile has a binding prefix for all commans. What is this prefix?
+
+**** Answer
+
+Hit =C-c p=. All other commands are a combo on top of this.
