@@ -654,3 +654,29 @@ How to create an empty check-box?
 
 Just press =M-shift-enter= which is bounded to
 =org-insert-todo-heading=.
+
+*** Exercise 51
+
+How to open a link on org-mode?
+
+**** Answer
+
+Press =C-c C-o= which is bounded to =org-open-at-point=.
+
+*** Exercise 52
+
+How to automatically reformat org-tables?
+
+E.g., from:
+
+| age| name    |
+|28|pedro
+
+To:
+
+| age | name  |
+|  28 | pedro |
+
+**** Answer
+
+Just hit =TAB=.
