@@ -1,6 +1,6 @@
 * Emacs flashcards with org-mode and org-drill
 
-** Keybindings 
+** Keybindings
 
 *** Exercise 1  :drill:
 SCHEDULED: <2021-11-09 ter>
@@ -160,7 +160,7 @@ In org, how to move to the previous org heading (not in the same level)?
 
 **** Answer
 
-=C-c C-p= 
+=C-c C-p=
 
 *** Exercise 9                                                    :drill:org:
 SCHEDULED: <2021-11-02 ter>
@@ -200,7 +200,7 @@ In org, how to move to the previous org heading in the same level?
 
 **** Answer
 
-=C-c C-b= 
+=C-c C-b=
 
 
 *** Exercise 11 :drill:org:
@@ -257,7 +257,7 @@ SCHEDULED: <2021-11-08 seg>
 :DRILL_LAST_REVIEWED: [2021-10-29 sex 14:50]
 :END:
 
-How to move to the previous element of 
+How to move to the previous element of
 the list in an org file?
 
 **** Answer
@@ -423,7 +423,7 @@ Execute command =upcase-word= which is bounded to =M-u=.
 
 How to lowercase the whole word?
 For instance, move "LISP" -> "lisp".
-    
+
 **** Answer
 
 Execute command =downcase-word= which is bounded to =M-l=.
@@ -432,7 +432,7 @@ Execute command =downcase-word= which is bounded to =M-l=.
 
 How to find out the problematic parens in a Elisp or Common Lisp file?
 
-**** Answer 
+**** Answer
 
 Execute the command =check-parens=. The cursor will be placed on the
 problematic parenthesis.
@@ -481,7 +481,7 @@ Execute command =downcase-region= which is bounded to =C-x C-l=.
 How to remove all blank lines in a region or buffer?
 
 **** Answer
-     
+
 Execute command =M-x flush-lines RET ^$ RET=.
 
 *** Exercise 33
@@ -490,7 +490,7 @@ Using shell in Emacs, how to open a file in the current application
 instead of another application?
 
 **** Answer
-     
+
 Use =$ emacsclient README.org=.
 
 *** Exercise 34
@@ -498,7 +498,7 @@ Use =$ emacsclient README.org=.
 How to "refresh a buffer" in Emacs?
 
 **** Answer
-     
+
 Use =revert buffer= which is binded in my config to =C-x C-M-r=.
 
 *** Exercise 35
@@ -541,7 +541,7 @@ What is the number #1 command for Magit to show you where you are?
 
 **** Answer
 
-Use =magit-status= (=C-x g=).     
+Use =magit-status= (=C-x g=).
 
 *** Exercise 40
 
@@ -638,3 +638,19 @@ What do you need to press?
 **** Answer
 
 =M-shift-return= to execute =org-insert-todo-heading=.
+
+*** Exercise 50
+
+If you an empty list:
+
+-
+
+How to create an empty check-box?
+
+- [ ]
+-
+
+**** Answer
+
+Just press =M-shift-enter= which is bounded to
+=org-insert-todo-heading=.
