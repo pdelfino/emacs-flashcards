@@ -595,3 +595,23 @@ How to create a new heading at the same indentation level?
 
 Hit =C-return= which is bounded to =org-insert-heading-respect-content=.
 
+*** Exercise 46
+
+How to move a heading up in the file considering only the *the same level of heading hierarchy*?
+
+**** Answer
+
+Hit =M-up= which is bounded to =org-metaup=. The =up= key needs the up
+arrow key. To move down, use =M-down=.
+
+*** Exercise 47
+
+How to move /any/ heading up and down in the file *independent* of the heading hierarchy?
+
+**** Answer
+
+Hit =M-shift-up= and =M-shift-down= which is bounded to
+=org-shiftmetaup= and =org-shiftmetadown=. Remember to use the arrow
+keys =up= and =down=.
+
+*** Exercise 48
