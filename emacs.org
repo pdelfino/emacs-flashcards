@@ -577,3 +577,21 @@ Projectile has a binding prefix for all commans. What is this prefix?
 **** Answer
 
 Hit =C-c p=. All other commands are a combo on top of this.
+
+*** Exercise 44
+
+In org mode, how to cycle between different visibilities types?
+Ex.: only first line (*), then (* and **), and so on.
+
+**** Answer
+
+Hit =Shift-TAB= to execute =org-shiftab= command.
+
+*** Exercise 45
+
+How to create a new heading at the same indentation level?
+
+**** Answer
+
+Hit =C-return= which is bounded to =org-insert-heading-respect-content=.
+
