@@ -718,3 +718,19 @@ To:
 
 Just hit =C-c C-x C-b= which is bounded to =org-toggle-checkbox=. By
 the way, it also works to un-check the check box.
+
+*** Exercise 55
+
+How to insert code in the .org file?
+
+**** Answer
+
+Insert:
+
+#+begin_src emacs-lisp
+  (defun place-holder ()
+    (message "hello"))
+#+end_src
+
+It is possible to evaluate this with =C-x C-e= (which is bounded to
+=eval-last-sexp=).
