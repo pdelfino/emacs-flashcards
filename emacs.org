@@ -621,3 +621,20 @@ How to create a hyperlink in org?
 **** Answer
 
 Hit =C-c C-l= which is bounded to =org-insert-link=.
+
+*** Exercise 49
+
+Suppose you have:
+
+- [ ] First item
+
+And you want to have:
+
+- [ ] First item
+- [ ]
+
+What do you need to press?
+
+**** Answer
+
+=M-shift-return= to execute =org-insert-todo-heading=.
