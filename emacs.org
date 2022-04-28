@@ -701,3 +701,20 @@ It also works for numbered lists, such as:
 
 1. first (press =M-return=), and "2." is going to be created:
 2.
+
+*** Exercise 54
+
+How to check a check-box?
+
+From:
+
+- [ ] first item
+
+To:
+
+- [X] first item
+
+**** Answer
+
+Just hit =C-c C-x C-b= which is bounded to =org-toggle-checkbox=. By
+the way, it also works to un-check the check box.
