@@ -615,3 +615,9 @@ Hit =M-shift-up= and =M-shift-down= which is bounded to
 keys =up= and =down=.
 
 *** Exercise 48
+
+How to create a hyperlink in org?
+
+**** Answer
+
+Hit =C-c C-l= which is bounded to =org-insert-link=.
