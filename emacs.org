@@ -734,3 +734,27 @@ Insert:
 
 It is possible to evaluate this with =C-x C-e= (which is bounded to
 =eval-last-sexp=).
+
+*** Exercise 56
+
+Suppose you have the following:
+
+#+begin_src txt
+    bla bla bla
+    cla cla cla
+    dla dla dla
+#+end_src txt    
+
+And you wish to make:
+
+#+begin_src txt
+    + bla bla bla
+    + cla cla cla
+    + dla dla dla
+#+end_src txt    
+
+How do you achieve this?
+
+**** Answer
+
+Execute =org-ctrl-c-minus= which is bounded to =C-c -=.     
