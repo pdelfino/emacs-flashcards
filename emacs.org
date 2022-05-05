@@ -459,14 +459,21 @@ Delete everything leaving just "as some cool things".
 
 Execute command =zap-to-char= which is bounded to =M-z=.
 
-*** Exercise 30 [REPETITIVE]
+*** Exercise 30
 
-How to indent an S-expression automatically?
-Not sure if having a lisp image loaded makes a difference.
+Emacs has a *default* clipboard ring tool. To "copy" something, the
+user just needs to press =M-w=. To "paste" (yank) something, just use
+=C-y=. To "cut" (kill), just to do =C-w=. Everything copied and cut
+(killed), goes to the clipboard ring.
 
-**** Answer [REPETITIVE]
+Suppose you copied "A", killed "B", copied "C", and killed "D".
 
-Execute command =indent-sexp= which is bounded to =C-M-q=.
+How to iterate everything you copied?
+
+**** Answer
+
+Execute command =yank-pop= which is bounded to =M-y=, after pressing
+=C-y=. It will cycle through kill ring after yanking.
 
 *** Exercise 31
 
@@ -758,3 +765,4 @@ How do you achieve this?
 **** Answer
 
 Execute =org-ctrl-c-minus= which is bounded to =C-c -=.     
+
