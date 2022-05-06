@@ -766,3 +766,16 @@ How do you achieve this?
 
 Execute =org-ctrl-c-minus= which is bounded to =C-c -=.     
 
+*** Exercise  57
+
+Using Paredit, how to do /slurping/ such as:
+
+> (+ 1 2 3 4)
+
+Be
+
+> (+ 1 2 (3) 4)
+
+**** Answer
+
+Execute =paredit-wrap-round= which is bounded to =M-(=.     
