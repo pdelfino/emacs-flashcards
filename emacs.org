@@ -750,7 +750,7 @@ Suppose you have the following:
     bla bla bla
     cla cla cla
     dla dla dla
-#+end_src txt    
+#+end_src txt
 
 And you wish to make:
 
@@ -758,13 +758,13 @@ And you wish to make:
     + bla bla bla
     + cla cla cla
     + dla dla dla
-#+end_src txt    
+#+end_src txt
 
 How do you achieve this?
 
 **** Answer
 
-Execute =org-ctrl-c-minus= which is bounded to =C-c -=.     
+Execute =org-ctrl-c-minus= which is bounded to =C-c -=.
 
 *** Exercise  57
 
@@ -778,4 +778,20 @@ Be
 
 **** Answer
 
-Execute =paredit-wrap-round= which is bounded to =M-(=.     
+Execute =paredit-wrap-round= which is bounded to =M-(=.
+
+*** Exercise 58
+
+What is the difference between shell-mode and term-mode?
+
+**** Answer
+
+=term-mode= is like the real terminal in your emacs, like =C-x k= does
+*not* even work initially to kill the buffer. You need to exit the
+terminal first. =shell-mode= on the other hand is cooler because it
+really feels like emacs. Using the docstrings.
+
+=term-mode=: Major mode for interacting with an inferior interpreter.
+The interpreter name is same as buffer name, sans the asterisks.
+
+=shell-mode=: Major mode for interacting with an inferior shell.
