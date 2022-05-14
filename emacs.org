@@ -803,3 +803,14 @@ How to eval an elisp expression on the mini-buffer?
 **** Answer
 
 Execute =eval-expression= which is bounded to =M-:=.
+
+*** Exercise 60
+
+Executing =htop= on =*shell*= will not work. It is possible to execute
+=htop= on =term-mode=. But =term-mode= is not really
+comfortable. There is an alternative for it, like an Emacs built in
+"process-mode". What is the command?
+
+**** Answer
+
+The command name is =proced= and there is not a default keybinding.
