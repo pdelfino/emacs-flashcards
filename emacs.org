@@ -795,3 +795,11 @@ really feels like emacs. Using the docstrings.
 The interpreter name is same as buffer name, sans the asterisks.
 
 =shell-mode=: Major mode for interacting with an inferior shell.
+
+*** Exercise 59
+
+How to eval an elisp expression on the mini-buffer?
+
+**** Answer
+
+Execute =eval-expression= which is bounded to =M-:=.
