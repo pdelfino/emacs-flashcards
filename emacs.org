@@ -814,3 +814,57 @@ comfortable. There is an alternative for it, like an Emacs built in
 **** Answer
 
 The command name is =proced= and there is not a default keybinding.
+
+*** Exercise 61
+
+How to indent a line?
+
+**** Anwer
+
+Press =TAB=.
+
+*** Exercise 62
+
+How to delete all the big space in the middle?
+
+From:
+
+a aa aaa aaaa aaaaa                 b bb bbb bbbb bbbbbb
+
+To:
+
+a aa aaa aaaa aaaaab bb bbb bbbb bbbbbb
+
+**** Answer
+
+Execute =M-\= which is bounded to =delete-horizontal-space=.  This is
+hard on my config, because to generate "\" is necessary to press right
+alt (also known as Alt-graphic) and the "-" (hifen) character. So, to
+the execute this command, it is necessary to press
+=M-Altgraphic-hifen= (or =M-Altgraphic--=).
+
+*** Exercise 63
+
+How to use dabbrev-expand? The cool built-in auto-complete available
+in Emacs that expands the previous word dynamically?
+
+**** Answer
+
+Execute =M-/=. But, to do so it is necessary to use both Alt keys, the
+Meta and the Alt-graphic key, so =M-Altgraphic-q=.
+
+*** Exercise 64
+
+How to describe a key?
+
+**** Answer
+
+Execute =C-h k= to do helpful-key.
+
+*** Exercise 65
+
+How to describe a function?
+
+**** Answer
+
+Execute =C-h f= which is bounded to .
