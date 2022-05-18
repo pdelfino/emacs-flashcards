@@ -868,3 +868,12 @@ How to describe a function?
 **** Answer
 
 Execute =C-h f= which is bounded to .
+
+*** Exercise 66
+
+It is possible to see all buffers with =list-buffers=. But, there is a
+better interface with an improved aesthetics. What is the command?
+
+**** Answr
+
+=ibuffer=!     
