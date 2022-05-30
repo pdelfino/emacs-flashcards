@@ -886,3 +886,13 @@ How to move a file using Dired?
 
 Use =m= to mark a file. And capital =R= to move the file from a new
 destination.
+
+***  Exercise 68
+
+How to do a git clone to a new repo being inside Magit?
+
+Obs.: Do not use the terminal
+
+**** Answer
+
+Go to path you want to do the clone. Then, execute =M-x= =magit-clone=.
