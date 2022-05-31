@@ -929,3 +929,14 @@ How to move in Magit to the upper level of heading hierarchy?
 **** Answer
 
 Execute =^= which is bounded to =magit-section-up=.
+
+*** Exercise 73
+
+In magit, what is the difference and the similarity between amending
+and extending a commit?
+
+**** Answer
+
+Both add information to the previous commit. But, ammend add new lines
+of code and a new commit message. While extend only adds new lines of
+code, without changing the commit message.
