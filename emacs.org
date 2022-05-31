@@ -955,7 +955,6 @@ F as an instant fix-up, pick the commit ID you are going to add the
 info, and execute C-c. De certa forma, o Fix-up também funciona como
 um extend, se o commit do passado for o último.
 
-
 *** Exercise 75
 
 How to iterate over all the problematic words pointed out by flyspell-mode?
@@ -963,3 +962,23 @@ How to iterate over all the problematic words pointed out by flyspell-mode?
 **** Answer
 
 Use =flyspell-go-to-next-error= which is bounded to =C-,=.
+
+*** Exercise 76
+
+Suppose you did some commits on master. But, they should have been put
+to a new branch. Now, you want to put those changes on a new branch
+and restore master branch.
+
+How to do it with a single command?
+
+**** Answer
+
+With a single command, use the command =new-spin-off= which is bounded
+to =s=, and pick a new branch. Then, go back to the original branch,
+it will be aligned with the remote version. For this to succeed, there
+must be a difference between the remote and the local versions. So,
+you should not have done a push!
+
+It is also possible to execute =c= (=create-new-branch=) and then =X=
+(=reset=) the main branch. But, this approach takes two steps! Better
+use =spin-off=!
