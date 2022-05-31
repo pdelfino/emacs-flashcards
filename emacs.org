@@ -937,6 +937,29 @@ and extending a commit?
 
 **** Answer
 
-Both add information to the previous commit. But, ammend add new lines
-of code and a new commit message. While extend only adds new lines of
-code, without changing the commit message.
+Both add information to the immediatly previous commit. But, ammend
+add new lines of code and a new commit message. While extend only adds
+new lines of code, without changing the commit message.
+
+*** Exercise 74
+
+What is an instant fix-up? What is the relation between an instant
+fix-up and doing an interactive rebase?
+
+**** Answer
+
+An instant fix-up allows you to add a commit from the past. An
+interactive rebase also allows this. But, an interactive rebase is way
+more powerful. Instructions: stage, press to commit, now pick capital
+F as an instant fix-up, pick the commit ID you are going to add the
+info, and execute C-c. De certa forma, o Fix-up também funciona como
+um extend, se o commit do passado for o último.
+
+
+*** Exercise 75
+
+How to iterate over all the problematic words pointed out by flyspell-mode?
+
+**** Answer
+
+Use =flyspell-go-to-next-error= which is bounded to =C-,=.
