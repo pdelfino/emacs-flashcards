@@ -876,7 +876,7 @@ better interface with an improved aesthetics. What is the command?
 
 **** Answer
 
-=ibuffer=!     
+=ibuffer=!
 
 *** Exercise 67
 
@@ -896,3 +896,19 @@ Obs.: Do not use the terminal
 **** Answer
 
 Go to path you want to do the clone. Then, execute =M-x= =magit-clone=.
+
+*** Exercise 69
+
+How to mark a paragraph?
+
+**** Answer
+
+Execute =M-h= which is bounded to =mark-paragraph=.
+
+*** Exercise 70
+
+How to mark a defun?
+
+**** Answer
+
+Execute =C-M-h= which is bounded to =mark-defun=.
