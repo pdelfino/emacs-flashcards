@@ -912,3 +912,11 @@ How to mark a defun?
 **** Answer
 
 Execute =C-M-h= which is bounded to =mark-defun=.
+
+***  Exercise 71
+
+How to move in Magit to the same level of heading hierarchy?
+
+**** Answer
+
+Execute =M-n= and =M-p=.
