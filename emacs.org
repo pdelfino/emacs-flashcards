@@ -919,4 +919,13 @@ How to move in Magit to the same level of heading hierarchy?
 
 **** Answer
 
-Execute =M-n= and =M-p=.
+Execute =M-n= and =M-p= which are bounded to
+=magit-section-backward-sibling= and =magit-section-forward-sibling=.
+
+***  Exercise 72
+
+How to move in Magit to the upper level of heading hierarchy?
+
+**** Answer
+
+Execute =^= which is bounded to =magit-section-up=.
