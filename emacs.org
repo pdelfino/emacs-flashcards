@@ -1016,3 +1016,10 @@ Emacs? Something that brings =describe-variable= and
 
 Yes, =describe-any=.
 
+*** Exercise 80
+
+How to do a pomodoro timer on Emacs?
+
+**** Answer
+
+Execute =org-timer-set-timer=.
