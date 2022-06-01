@@ -1006,3 +1006,13 @@ How move to the beginning and the end of a sentence in Emacs?
 Use =M-a= and =M-e=. If it does not work, you might need to change the
 value of a specific variable.
 
+*** Exercise 79
+
+In Nyxt, there is =describe-any=. Is there something like that in
+Emacs? Something that brings =describe-variable= and
+=describe-function= together?
+
+**** Answer
+
+Yes, =describe-any=.
+
