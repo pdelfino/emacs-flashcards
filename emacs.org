@@ -985,9 +985,14 @@ use =spin-off=!
 
 *** Exercise 77
 
-Suppose you have a repo under version control, but you want to keep
-some files out of the version control. How to do it?
+Suppose you have a repository under version control, but you want to
+keep some files out of the version control. What should you do? How to
+do it inside Magit?
 
 **** Answer
 
-Add the files to the =.gitignore=.
+First, the file needs to untracked. If it is already being tracked,
+remove it from version control using =K= via Magit. Then, press =i= to
+ignore it. Not sure about the options on /how/ to ignore. I usually
+pick the first option, =t=. This will add the files to the
+=.gitignore=.
