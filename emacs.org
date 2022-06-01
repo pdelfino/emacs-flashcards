@@ -982,3 +982,12 @@ you should not have done a push!
 It is also possible to execute =c= (=create-new-branch=) and then =X=
 (=reset=) the main branch. But, this approach takes two steps! Better
 use =spin-off=!
+
+*** Exercise 77
+
+Suppose you have a repo under version control, but you want to keep
+some files out of the version control. How to do it?
+
+**** Answer
+
+Add the files to the =.gitignore=.
