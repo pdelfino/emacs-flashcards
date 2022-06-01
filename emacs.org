@@ -996,3 +996,13 @@ remove it from version control using =K= via Magit. Then, press =i= to
 ignore it. Not sure about the options on /how/ to ignore. I usually
 pick the first option, =t=. This will add the files to the
 =.gitignore=.
+
+*** Exercise 78
+
+How move to the beginning and the end of a sentence in Emacs?
+
+**** Answer
+
+Use =M-a= and =M-e=. If it does not work, you might need to change the
+value of a specific variable.
+
