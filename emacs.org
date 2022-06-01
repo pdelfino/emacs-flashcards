@@ -1023,3 +1023,11 @@ How to do a pomodoro timer on Emacs?
 **** Answer
 
 Execute =org-timer-set-timer=.
+
+*** Exercise 81
+
+Before doing an interactive rebase, what should you do?
+
+**** Answer
+
+A back-up branch!
