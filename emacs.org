@@ -1031,3 +1031,14 @@ Before doing an interactive rebase, what should you do?
 **** Answer
 
 A back-up branch!
+
+*** Exercise 82
+
+So, you are working in an experimental feature and you want to bring
+new changes from main branch. What should you do to bring these
+changes?
+
+**** Answer
+
+First, execute to rebase =r=. Then, choose =e=. Finally, type /main/
+branch on the mini buffer.
