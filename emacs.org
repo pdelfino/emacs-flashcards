@@ -1042,3 +1042,13 @@ changes?
 
 First, execute to rebase =r=. Then, choose =e=. Finally, type /main/
 branch on the mini buffer.
+
+*** Exercise
+
+You keep using all the time the command =comment-dwim= to make a code
+snippet be treated as a comment. Usually, you do it via =M-x= and
+typing. But, there is a default keybinding for it! What is it?
+
+**** Answer
+
+Just press =M-;=.
