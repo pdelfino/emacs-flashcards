@@ -1052,3 +1052,14 @@ typing. But, there is a default keybinding for it! What is it?
 **** Answer
 
 Just press =M-;=.
+
+*** Exercise
+
+Cider provides a cool *non-obstrusive* auto-complete, popping out the
+options for auto-complete! How to invoke it?
+
+**** Answer
+
+Press =TAB=. Alt-tab would also work... but this is used to change
+applications on the Desktop environment.
+
