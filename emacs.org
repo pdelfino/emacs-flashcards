@@ -1043,7 +1043,7 @@ changes?
 First, execute to rebase =r=. Then, choose =e=. Finally, type /main/
 branch on the mini buffer.
 
-*** Exercise
+*** Exercise 83
 
 You keep using all the time the command =comment-dwim= to make a code
 snippet be treated as a comment. Usually, you do it via =M-x= and
@@ -1053,7 +1053,7 @@ typing. But, there is a default keybinding for it! What is it?
 
 Just press =M-;=.
 
-*** Exercise
+*** Exercise 84
 
 Cider provides a cool *non-obstrusive* auto-complete, popping out the
 options for auto-complete! How to invoke it?
@@ -1063,3 +1063,13 @@ options for auto-complete! How to invoke it?
 Press =TAB=. Alt-tab would also work... but this is used to change
 applications on the Desktop environment.
 
+*** Exercise 85
+
+How to do a =git checkout -f= in Magit?
+
+Note, the point is the force flag =-f=.
+
+**** Answer
+
+Use =Q= which is binded to =magit-git-command= and allow you to
+manually type the git command.
