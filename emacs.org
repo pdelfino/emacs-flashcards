@@ -1082,3 +1082,11 @@ How to do a powerfull search on previous data inserted on the CIDER REPL?
 
 Use =C-c M-p= which is bounded to =cider-repl-history=.
 
+*** Exercise 87
+
+How to move files in Emacs?
+
+**** Answer
+
+Use =dired=. First, mark the file with =m=. Then, press =R=. Finally,
+the *new* file path location.
