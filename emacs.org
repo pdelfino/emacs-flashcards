@@ -1073,3 +1073,12 @@ Note, the point is the force flag =-f=.
 
 Use =Q= which is binded to =magit-git-command= and allow you to
 manually type the git command.
+
+*** Exercise 86
+
+How to do a powerfull search on previous data inserted on the CIDER REPL?
+
+**** Answer
+
+Use =C-c M-p= which is bounded to =cider-repl-history=.
+
