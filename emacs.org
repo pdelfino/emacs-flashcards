@@ -1091,3 +1091,11 @@ How to move files in Emacs?
 
 Use =dired=. First, mark the file with =m=. Then, press =R=. Finally,
 the *new* file path location.
+
+*** Exercise 88
+
+In a list of items, how to move one item up in the list?
+
+**** Answer
+
+Use =M-up=. The =up= here is the arrow up key.
