@@ -604,7 +604,8 @@ Hit =C-return= which is bounded to =org-insert-heading-respect-content=.
 
 *** Exercise 46
 
-How to move a heading up in the file considering only the *the same level of heading hierarchy*?
+How to move a heading up in the file considering only the *the same
+level of heading hierarchy*?
 
 **** Answer
 
