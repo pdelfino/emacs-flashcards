@@ -1099,3 +1099,14 @@ In a list of items, how to move one item up in the list?
 **** Answer
 
 Use =M-up=. The =up= here is the arrow up key.
+
+*** Exercise 89
+
+How to update a Pull Request putting the new changes from master below
+your additions?
+
+**** Answer
+
+I FORGOT HOW TO DO IT ON MAGIT! BUT, I THINK I WILL REMEMBER!!! I
+think it is some sort of rebase =git rebease
+master/feature-new-whatever=
