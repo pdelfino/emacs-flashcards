@@ -1110,3 +1110,16 @@ your additions?
 I FORGOT HOW TO DO IT ON MAGIT! BUT, I THINK I WILL REMEMBER!!! I
 think it is some sort of rebase =git rebease
 master/feature-new-whatever=
+
+*** Exercise 90
+
+In dired, how to rename a file?
+
+**** Answer
+
+Use dired andh execute =r=. You can also press =m=, mark multiple
+files, and then rename them as a bunch.
+
+Finally, It is always worth mentioning that renaming a file
+(especially it's full name, which involves a file path) means *moving*
+the file!
