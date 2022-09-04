@@ -1123,3 +1123,12 @@ files, and then rename them as a bunch.
 Finally, It is always worth mentioning that renaming a file
 (especially it's full name, which involves a file path) means *moving*
 the file!
+
+*** Exercise 91
+
+How to delete a window in Emacs?
+
+**** Answer
+
+Use =C-x 0= to delete a window.
+
