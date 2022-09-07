@@ -1132,3 +1132,39 @@ How to delete a window in Emacs?
 
 Use =C-x 0= to delete a window.
 
+*** Exercise 92
+
+How to convert an unordered to list an ordered one? Or the opposite?
+
+**** Answer
+
+First change the first item to the deisred form. Then, execute =C-c C-c=.
+So,
+
+- cat
+- dog
+- fish
+
+Tweak the first  
+1. cat
+- dog
+- fish
+
+After pressing =C-c C-c= with cursor on =-=:
+
+1. cat
+2. dog
+3. fish
+
+The opposite is also true, so tweaking the first:
+
+- cat
+2. dog
+3. fish
+
+And pressing =C-c C-c=:
+
+- cat
+- dog
+- fish
+
