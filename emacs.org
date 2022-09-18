@@ -1168,3 +1168,13 @@ And pressing =C-c C-c=:
 - dog
 - fish
 
+*** Exercise 93
+
+In dired, suppose you have pressed =D= to delete some file. How to
+undo this?
+
+**** Answer
+
+Put the cursor over that choice and press letter =u= to *remove* the
+delete flag.
+
