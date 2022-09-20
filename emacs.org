@@ -1178,3 +1178,12 @@ undo this?
 Put the cursor over that choice and press letter =u= to *remove* the
 delete flag.
 
+*** Exercise 94
+
+In magit, how to bring a bunch of commits from another local into your
+own local branch?
+
+**** Answer
+
+Use =magit-merge=! This saved me at least 1 hour of repetitive work.
+
