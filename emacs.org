@@ -1197,3 +1197,11 @@ Use =F3= to start recording and =F4= to finish. In my macOS under the
 karabiner-elements changes, I need to press =control= on the physical
 keyboard which is associated to to the *value* of the =fn= key.
 
+*** Exercise 96
+
+How to use a keyboard macro several times?
+
+**** Answer
+
+For instance, press the following keys =C-u 9 C-x e= to execute the
+keyboard macro previously defined several times
