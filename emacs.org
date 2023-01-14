@@ -1187,3 +1187,13 @@ own local branch?
 
 Use =magit-merge=! This saved me at least 1 hour of repetitive work.
 
+*** Exercise 95
+
+How to define a keyboard-macro in Emacs?
+
+**** Answer
+
+Use =F3= to start recording and =F4= to finish. In my macOS under the
+karabiner-elements changes, I need to press =control= on the physical
+keyboard which is associated to to the *value* of the =fn= key.
+
