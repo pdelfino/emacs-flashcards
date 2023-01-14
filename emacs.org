@@ -1205,3 +1205,14 @@ How to use a keyboard macro several times?
 
 For instance, press the following keys =C-u 9 C-x e= to execute the
 keyboard macro previously defined several times
+
+***  Exercise 97
+
+How to use the rectangle in Emacs
+
+**** Answer
+
+Use =rectangle-mark-mode= to start the rectangle space, then
+=rectangle-mark-mode= again to finish the rectangle. Remember the
+rectangle definition comes from the diagonal line! Finally, iterate
+with the rectangle with commands such as =kill-rectangle=
