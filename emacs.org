@@ -1216,3 +1216,14 @@ Use =rectangle-mark-mode= to start the rectangle space, then
 =rectangle-mark-mode= again to finish the rectangle. Remember the
 rectangle definition comes from the diagonal line! Finally, iterate
 with the rectangle with commands such as =kill-rectangle=
+
+***  Exercise 98
+
+How to make an org-mode table row number grow in an automatic manner?
+
+**** Answer
+
+Press =S-ENTER= in the first column after having put the cursor in '1'
+or another number and it will auto-increment in a new row. Not as
+clever as a formula, but is easier (for me) to remember.
+
