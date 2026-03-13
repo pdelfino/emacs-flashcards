@@ -1,6 +1,6 @@
 # emacs-flashcards
 
-![The Bookworm](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Carl_Spitzweg_-_%22The_Bookworm%22.jpg/700px-Carl_Spitzweg_-_%22The_Bookworm%22.jpg)
+![The Bookworm](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Carl_Spitzweg_-_%22The_Bookworm%22.jpg/960px-Carl_Spitzweg_-_%22The_Bookworm%22.jpg)
 
 *"The Bookworm" (c. 1850) by Carl Spitzweg — [Wikipedia](https://en.wikipedia.org/wiki/The_Bookworm_(painting))*
 
